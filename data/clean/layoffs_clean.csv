@@ -1,0 +1,537 @@
+date,year,month,quarter,day_of_year,studio,company,company_group,company_rank,parent,type,headcount,headcount_status,pct_of_year_known,cum_headcount_min,is_outlier,possible_double_count,source_file
+2022-01-15,2022,1,1,15,Heartbeat Network,Heartbeat Network,Altres empreses,16,,Publisher,600.0,exacte,7.02,600.0,True,False,2022-Grid view.csv
+2022-01-27,2022,1,1,27,Perfect World Games,Perfect World Co. Ltd.,Perfect World Co. Ltd.,10,Perfect World Co. Ltd.,Publisher,1000.0,exacte,11.7,1600.0,True,False,2022-Grid view.csv
+2022-02-01,2022,2,1,32,Playgendary Minsk,Playgendary,Altres empreses,32,Playgendary,Mobile,200.0,exacte,2.34,1800.0,True,False,2022-Grid view.csv
+2022-03-28,2022,3,1,87,Gamigo,Media and Games Invest,Altres empreses,88,Media and Games Invest,Publisher,,no_disponible,,1800.0,False,False,2022-Grid view.csv
+2022-04-01,2022,4,2,91,PlayStation,Sony Entertainment,Altres empreses,30,Sony Entertainment,Publisher,93.0,exacte,1.09,1893.0,False,False,2022-Grid view.csv
+2022-04-04,2022,4,2,94,Wargaming Minskj,Wargaming,Altres empreses,222,Wargaming,Publisher,,no_disponible,,1893.0,False,False,2022-Grid view.csv
+2022-05-18,2022,5,2,138,Electronic Arts,Electronic Arts,Electronic Arts,3,Electronic Arts,Publisher,200.0,exacte,2.34,2093.0,True,False,2022-Grid view.csv
+2022-05-22,2022,5,2,142,MPL,MPL,Altres empreses,55,,Mobile,100.0,exacte,1.17,2193.0,False,False,2022-Grid view.csv
+2022-05-25,2022,5,2,145,Tencent IEG,Tencent,Tencent,9,Tencent,Publisher,50.0,exacte,0.58,2243.0,False,False,2022-Grid view.csv
+2022-05-26,2022,5,2,146,Hangar 13,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Console,87.0,exacte,1.02,2330.0,False,False,2022-Grid view.csv
+2022-06-01,2022,6,2,152,PlayTika,Playtika,Playtika,5,Playtika,Mobile,250.0,exacte,2.92,2580.0,True,False,2022-Grid view.csv
+2022-06-01,2022,6,2,152,Penguin Esports,Tencent,Tencent,9,Tencent,Online,,no_disponible,,2580.0,False,False,2022-Grid view.csv
+2022-06-02,2022,6,2,153,101XP,101XP,Altres empreses,222,,Mobile,,no_disponible,,2580.0,False,False,2022-Grid view.csv
+2022-06-15,2022,6,2,166,Game Insight,Game Insight,Altres empreses,16,Game Insight,Mobile,600.0,exacte,7.02,3180.0,True,False,2022-Grid view.csv
+2022-06-15,2022,6,2,166,Plarium Krasnador,Plarium,Altres empreses,20,Plarium,Mobile,500.0,exacte,5.85,3680.0,True,False,2022-Grid view.csv
+2022-06-21,2022,6,2,172,Friday's Games,Friday's Games,Altres empreses,88,,Mobile,50.0,exacte,0.58,3730.0,False,False,2022-Grid view.csv
+2022-06-27,2022,6,2,178,Adjust,AppLovin,Altres empreses,34,AppLovin,Mobile,,no_disponible,,3730.0,False,False,2022-Grid view.csv
+2022-06-28,2022,6,2,179,101 Studio,ByteDance,ByteDance,8,ByteDance,Mobile,150.0,exacte,1.75,3880.0,False,False,2022-Grid view.csv
+2022-06-28,2022,6,2,179,Intellivision,Intellivision,Altres empreses,222,,Tech,,no_disponible,,3880.0,False,False,2022-Grid view.csv
+2022-06-30,2022,6,2,181,IGG,IGG,Altres empreses,18,IGG,Mobile,598.0,exacte,6.99,4478.0,True,False,2022-Grid view.csv
+2022-06-30,2022,6,2,181,Niantic,Niantic,Altres empreses,23,Niantic,Mobile,90.0,exacte,1.05,4568.0,False,False,2022-Grid view.csv
+2022-06-30,2022,6,2,181,Unity Technologies,Unity,Unity,2,Unity,Tech,150.0,exacte,1.75,4718.0,False,False,2022-Grid view.csv
+2022-06-30,2022,6,2,181,Archosaur Games,Zulong Entertainment,Altres empreses,24,Zulong Entertainment,Mobile,304.0,exacte,3.56,5022.0,True,False,2022-Grid view.csv
+2022-07-01,2022,7,3,182,LineKong Interactive,LineKong Interactive,Altres empreses,88,,Online,50.0,exacte,0.58,5072.0,False,False,2022-Grid view.csv
+2022-07-14,2022,7,3,195,NetEase Spark Studio,NetEase,Altres empreses,39,NetEase,Publisher,,no_disponible,,5072.0,False,False,2022-Grid view.csv
+2022-07-29,2022,7,3,210,37 Mobile Games,Sanqi Interactive Entertainment,Altres empreses,44,Sanqi Interactive Entertainment,Mobile,130.0,exacte,1.52,5202.0,False,False,2022-Grid view.csv
+2022-08-01,2022,8,3,213,Uken Games,Uken Games,Altres empreses,222,,Mobile,,no_disponible,,5202.0,False,False,2022-Grid view.csv
+2022-08-04,2022,8,3,216,Ludia,Jam City,Altres empreses,29,Jam City,Mobile,200.0,exacte,2.34,5402.0,True,False,2022-Grid view.csv
+2022-08-26,2022,8,3,238,Mino Games,Mino Games,Altres empreses,222,,Mobile,,no_disponible,,5402.0,False,False,2022-Grid view.csv
+2022-09-02,2022,9,3,245,Lockwood Publishing,Lockwood Publishing,Altres empreses,127,,Publisher,34.0,exacte,0.4,5436.0,False,False,2022-Grid view.csv
+2022-09-06,2022,9,3,249,Wushuan Studio,ByteDance,ByteDance,8,ByteDance,Online,,no_disponible,,5436.0,False,False,2022-Grid view.csv
+2022-09-09,2022,9,3,252,Garena,Sea Ltd.,Altres empreses,15,Sea Ltd.,Online,700.0,exacte,8.19,6136.0,True,False,2022-Grid view.csv
+2022-09-22,2022,9,3,265,Booyah!,Sea Ltd.,Altres empreses,15,Sea Ltd.,Online,35.0,exacte,0.41,6171.0,False,False,2022-Grid view.csv
+2022-09-28,2022,9,3,271,Mighty Kingdom,Mighty Kingdom,Altres empreses,145,,Indie,,no_disponible,,6171.0,False,False,2022-Grid view.csv
+2022-10-14,2022,10,4,287,Playdots,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Mobile,65.0,exacte,0.76,6236.0,False,False,2022-Grid view.csv
+2022-10-18,2022,10,4,291,Xbox,Microsoft,Microsoft,1,Microsoft,Publisher,1000.0,exacte,11.7,7236.0,True,False,2022-Grid view.csv
+2022-11-02,2022,11,4,306,Onoma,Embracer Group,Embracer Group,4,Embracer Group,Mobile,200.0,exacte,2.34,7436.0,True,False,2022-Grid view.csv
+2022-11-02,2022,11,4,306,WIIMO Games,WIIMO Games,Altres empreses,222,,Mobile,,no_disponible,,7436.0,False,False,2022-Grid view.csv
+2022-11-10,2022,11,4,314,Kabam,Kabam,Altres empreses,119,,Mobile,35.0,exacte,0.41,7471.0,False,False,2022-Grid view.csv
+2022-11-15,2022,11,4,319,Tencent IEG,Tencent,Tencent,9,Tencent,Online,,no_disponible,,7471.0,False,False,2022-Grid view.csv
+2022-11-17,2022,11,4,321,Amazon Luna,Amazon,Amazon,7,Amazon,Tech,,no_disponible,,7471.0,False,False,2022-Grid view.csv
+2022-11-19,2022,11,4,323,Lilith Games,Lilith Games,Altres empreses,109,,Publisher,,no_disponible,,7471.0,False,False,2022-Grid view.csv
+2022-11-29,2022,11,4,333,Wildlife Studios,Wildlife Studios,Altres empreses,13,Wildlife Studios,Mobile,300.0,exacte,3.51,7771.0,True,False,2022-Grid view.csv
+2022-12-06,2022,12,4,340,Spokko Studio,CD Projekt,Altres empreses,47,CD Projekt,Mobile,,no_disponible,,7771.0,False,False,2022-Grid view.csv
+2022-12-08,2022,12,4,342,Age of Learning Inc.,ABC Mouse,Altres empreses,48,ABC Mouse,Online,128.0,exacte,1.5,7899.0,False,False,2022-Grid view.csv
+2022-12-21,2022,12,4,355,Gamigo,Media and Games Invest,Altres empreses,88,Media and Games Invest,Online,50.0,exacte,0.58,7949.0,False,False,2022-Grid view.csv
+2022-12-22,2022,12,4,356,PlayTika,Playtika,Playtika,5,Playtika,Mobile,600.0,exacte,7.02,8549.0,True,False,2022-Grid view.csv
+2023-01-03,2023,1,1,3,Wizards of the Coast,Hasbro,Altres empreses,175,Hasbro,Console,15.0,exacte,0.14,15.0,False,False,2023-Grid view.csv
+2023-01-17,2023,1,1,17,Unity Technologies,Unity,Unity,2,Unity,Tech,300.0,exacte,2.84,315.0,True,False,2023-Grid view.csv
+2023-01-19,2023,1,1,19,HiRez Games,HiRez Games,Altres empreses,222,,Online,,no_disponible,,315.0,False,False,2023-Grid view.csv
+2023-01-19,2023,1,1,19,343 Studios,Microsoft,Microsoft,1,Microsoft,Console,95.0,exacte,0.9,410.0,False,False,2023-Grid view.csv
+2023-01-19,2023,1,1,19,Bethesda Games,Microsoft,Microsoft,1,Microsoft,Console,,no_disponible,,410.0,False,False,2023-Grid view.csv
+2023-01-19,2023,1,1,19,The Coalition,Microsoft,Microsoft,1,Microsoft,Console,,no_disponible,,410.0,False,False,2023-Grid view.csv
+2023-01-19,2023,1,1,19,Riot Games,Tencent,Tencent,9,Tencent,Online,46.0,exacte,0.44,456.0,False,False,2023-Grid view.csv
+2023-01-20,2023,1,1,20,Roblox,Roblox,Altres empreses,98,,Tech,30.0,exacte,0.28,486.0,False,False,2023-Grid view.csv
+2023-01-25,2023,1,1,25,Hidden Leaf Games,Hidden Leaf Games,Altres empreses,131,,Indie,30.0,exacte,0.28,516.0,False,False,2023-Grid view.csv
+2023-01-30,2023,1,1,30,Wicked Realm Games,Tilting Point,Altres empreses,40,Tilting Point,Mobile,60.0,exacte,0.57,576.0,False,False,2023-Grid view.csv
+2023-01-31,2023,1,1,31,EA Industrial Toys,Electronic Arts,Electronic Arts,3,Electronic Arts,Mobile,150.0,exacte,1.42,726.0,False,False,2023-Grid view.csv
+2023-01-31,2023,1,1,31,Respawn Entertainment,Electronic Arts,Electronic Arts,3,Electronic Arts,Mobile,,no_disponible,,726.0,False,False,2023-Grid view.csv
+2023-02-01,2023,2,1,32,Hyper Hippos Entertainment,Hyper Hippos Entertainment,Altres empreses,109,,Mobile,10.0,exacte,0.09,736.0,False,False,2023-Grid view.csv
+2023-02-01,2023,2,1,32,Mutant Arm Studios,Mutant Arm Studios,Altres empreses,129,,Indie,31.0,exacte,0.29,767.0,False,False,2023-Grid view.csv
+2023-02-02,2023,2,1,33,Big Run Studios,Big Run Studios,Altres empreses,145,,Mobile,25.0,exacte,0.24,792.0,False,False,2023-Grid view.csv
+2023-02-02,2023,2,1,33,Nexon Games West,Nexon,Altres empreses,63,Nexon,Online,80.0,exacte,0.76,872.0,False,False,2023-Grid view.csv
+2023-02-13,2023,2,1,44,Survios,Survios,Altres empreses,119,,AR/VR,35.0,exacte,0.33,907.0,False,False,2023-Grid view.csv
+2023-02-24,2023,2,1,55,PUBG Santa Monica,Krafton,Altres empreses,66,Krafton,Online,5.0,exacte,0.05,912.0,False,False,2023-Grid view.csv
+2023-02-28,2023,2,1,59,EA Baton Rouge,Electronic Arts,Electronic Arts,3,Electronic Arts,Publisher,200.0,exacte,1.9,1112.0,True,False,2023-Grid view.csv
+2023-03-01,2023,3,1,60,GameLoft Budapest,GameLoft,Altres empreses,55,GameLoft,Mobile,100.0,exacte,0.95,1212.0,False,False,2023-Grid view.csv
+2023-03-07,2023,3,1,66,Private Division,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Publisher,,no_disponible,,1212.0,False,False,2023-Grid view.csv
+2023-03-17,2023,3,1,76,Team17,Team17,Altres empreses,222,Team17,Publisher,,no_disponible,,1212.0,False,False,2023-Grid view.csv
+2023-03-20,2023,3,1,79,Twitch,Amazon,Amazon,7,Amazon,Online,400.0,exacte,3.79,1612.0,True,False,2023-Grid view.csv
+2023-03-30,2023,3,1,89,Electronic Arts,Electronic Arts,Electronic Arts,3,,Publisher,775.0,exacte,7.35,2387.0,True,False,2023-Grid view.csv
+2023-03-30,2023,3,1,89,LINE games,Naver,Altres empreses,131,Naver,Online,30.0,exacte,0.28,2417.0,False,False,2023-Grid view.csv
+2023-04-04,2023,4,2,94,Amazon Game Studios,Amazon,Amazon,7,Amazon,Publisher,100.0,exacte,0.95,2517.0,False,False,2023-Grid view.csv
+2023-04-04,2023,4,2,94,Counterplay Games,Counterplay Games,Altres empreses,222,,Indie,,no_disponible,,2517.0,False,False,2023-Grid view.csv
+2023-04-04,2023,4,2,94,Paradox Games,Paradox Interactive,Altres empreses,59,Paradox Interactive,Indie,36.0,exacte,0.34,2553.0,False,False,2023-Grid view.csv
+2023-04-14,2023,4,2,104,Innogames,Innogames,Altres empreses,67,,Mobile,75.0,exacte,0.71,2628.0,False,False,2023-Grid view.csv
+2023-04-14,2023,4,2,104,Bungie,Sony Entertainment,Altres empreses,30,Sony Entertainment,Console,,no_disponible,,2628.0,False,False,2023-Grid view.csv
+2023-04-17,2023,4,2,107,CyberConnect2 Montreal,CyberConnect2,Altres empreses,83,CyberConnect2,Console,55.0,exacte,0.52,2683.0,False,False,2023-Grid view.csv
+2023-04-20,2023,4,2,110,Downpour Interactive,Meta,Altres empreses,44,Meta,AR/VR,,no_disponible,,2683.0,False,False,2023-Grid view.csv
+2023-04-20,2023,4,2,110,Ready at Dawn,Meta,Altres empreses,44,Meta,AR/VR,30.0,exacte,0.28,2713.0,False,False,2023-Grid view.csv
+2023-04-21,2023,4,2,111,Ten Square Games,Ten Square Games,Altres empreses,52,,Mobile,105.0,exacte,1.0,2818.0,False,False,2023-Grid view.csv
+2023-04-25,2023,4,2,115,Phoenix Labs,Garena,Altres empreses,131,Garena,Online,30.0,exacte,0.28,2848.0,False,False,2023-Grid view.csv
+2023-05-01,2023,5,2,121,PlayStudios,PlayStudios,Altres empreses,55,PlayStudios,Mobile,100.0,exacte,0.95,2948.0,False,False,2023-Grid view.csv
+2023-05-01,2023,5,2,121,PixelOpus,Sony Entertainment,Altres empreses,30,Sony Entertainment,Console,20.0,exacte,0.19,2968.0,False,False,2023-Grid view.csv
+2023-05-01,2023,5,2,121,We're Five Games,TinyBuild,Altres empreses,106,TinyBuild,Console,14.0,exacte,0.13,2982.0,False,False,2023-Grid view.csv
+2023-05-02,2023,5,2,122,Unity Technologies,Unity,Unity,2,Unity,Online,600.0,exacte,5.69,3582.0,True,False,2023-Grid view.csv
+2023-05-09,2023,5,2,129,Final Strike Games,Final Strike Games,Altres empreses,131,,Console,30.0,exacte,0.28,3612.0,False,False,2023-Grid view.csv
+2023-05-10,2023,5,2,130,Ubisoft,Ubisoft,Altres empreses,12,Ubisoft,Publisher,60.0,exacte,0.57,3672.0,False,False,2023-Grid view.csv
+2023-05-11,2023,5,2,131,The Molasses Flood,CD Projekt,Altres empreses,47,CD Projekt,Console,29.0,exacte,0.28,3701.0,False,False,2023-Grid view.csv
+2023-05-12,2023,5,2,132,Deviation Games,Deviation Games,Altres empreses,43,,Console,90.0,exacte,0.85,3791.0,False,False,2023-Grid view.csv
+2023-05-18,2023,5,2,138,Brace Yourself Games,Brace Yourself Games,Altres empreses,159,,Console,21.0,exacte,0.2,3812.0,False,False,2023-Grid view.csv
+2023-05-19,2023,5,2,139,Deck Nine Games,Deck Nine Games,Altres empreses,83,,Console,30.0,exacte,0.28,3842.0,False,False,2023-Grid view.csv
+2023-05-22,2023,5,2,142,Resolution Games,Resolution Games,Altres empreses,69,,AR/VR,70.0,exacte,0.66,3912.0,False,False,2023-Grid view.csv
+2023-05-23,2023,5,2,143,Plucky Bytes,Embracer Group,Embracer Group,4,Embracer Group,Console,,no_disponible,,3912.0,False,False,2023-Grid view.csv
+2023-05-23,2023,5,2,143,Relic Games,SEGA,Altres empreses,21,SEGA,Console,121.0,exacte,1.15,4033.0,False,False,2023-Grid view.csv
+2023-05-24,2023,5,2,144,Kabam,Netmarble,Altres empreses,36,Netmarble,Mobile,,no_disponible,,4033.0,False,False,2023-Grid view.csv
+2023-05-25,2023,5,2,145,Antimatter Games,Enad Global 7,Altres empreses,26,Enad Global 7,Console,53.0,exacte,0.5,4086.0,False,False,2023-Grid view.csv
+2023-05-26,2023,5,2,146,PlayStation San Diego,Sony Entertainment,Altres empreses,30,Sony Entertainment,Console,,no_disponible,,4086.0,False,False,2023-Grid view.csv
+2023-05-30,2023,5,2,150,Firaxis Games,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Console,30.0,exacte,0.28,4116.0,False,False,2023-Grid view.csv
+2023-05-31,2023,5,2,151,Vanpool,Vanpool,Altres empreses,222,,Console,,no_disponible,,4116.0,False,False,2023-Grid view.csv
+2023-06-01,2023,6,2,152,Firemonkeys,Electronic Arts,Electronic Arts,3,Electronic Arts,Mobile,45.0,exacte,0.43,4161.0,False,False,2023-Grid view.csv
+2023-06-01,2023,6,2,152,BonusXP,Netflix,Altres empreses,54,Netflix,Console,48.0,exacte,0.46,4209.0,False,False,2023-Grid view.csv
+2023-06-03,2023,6,2,154,The Game Band,The Game Band,Altres empreses,222,,Console,,no_disponible,,4209.0,False,False,2023-Grid view.csv
+2023-06-12,2023,6,2,163,Hellbent Games,Hellbent Games,Altres empreses,109,,Indie,40.0,exacte,0.38,4249.0,False,False,2023-Grid view.csv
+2023-06-14,2023,6,2,165,Kiloo Games,Kiloo Games,Altres empreses,83,,Mobile,55.0,exacte,0.52,4304.0,False,False,2023-Grid view.csv
+2023-06-15,2023,6,2,166,ProbablyMonsters,ProbablyMonsters,Altres empreses,119,,Online,35.0,exacte,0.33,4339.0,False,False,2023-Grid view.csv
+2023-06-15,2023,6,2,166,Wildlife Studios,Wildlife Studios,Altres empreses,13,Wildlife Studios,Mobile,143.0,exacte,1.36,4482.0,False,False,2023-Grid view.csv
+2023-06-16,2023,6,2,167,Bilibili Guangzhou Xinyuan,Bilibili,Altres empreses,31,Bilibili,Online,220.0,exacte,2.09,4702.0,True,False,2023-Grid view.csv
+2023-06-21,2023,6,2,172,Scavenger Studios,Scavenger Studios,Altres empreses,162,,Indie,20.0,exacte,0.19,4722.0,False,False,2023-Grid view.csv
+2023-06-23,2023,6,2,174,Wildseed Games,Wildseed Games,Altres empreses,175,,Online,15.0,exacte,0.14,4737.0,False,False,2023-Grid view.csv
+2023-06-27,2023,6,2,178,HiRez Ventures,HiRez Ventures,Altres empreses,88,,Online,50.0,exacte,0.47,4787.0,False,False,2023-Grid view.csv
+2023-06-28,2023,6,2,179,Elodie Games,Elodie Games,Altres empreses,119,,Online,,no_disponible,,4787.0,False,False,2023-Grid view.csv
+2023-06-29,2023,6,2,180,Ludia,Jam City,Altres empreses,29,Jam City,Mobile,45.0,exacte,0.43,4832.0,False,False,2023-Grid view.csv
+2023-06-29,2023,6,2,180,Niantic,Niantic,Altres empreses,23,Niantic,AR/VR,230.0,exacte,2.18,5062.0,True,False,2023-Grid view.csv
+2023-06-30,2023,6,2,181,LifeForce Games,LifeForce Games,Altres empreses,187,,Indie,13.0,exacte,0.12,5075.0,False,False,2023-Grid view.csv
+2023-06-30,2023,6,2,181,Daedalic Entertainment,Nacon,Altres empreses,145,Nacon,Console,25.0,exacte,0.24,5100.0,False,False,2023-Grid view.csv
+2023-06-30,2023,6,2,181,JumpStart Games,NetDragon Websoft,Altres empreses,77,NetDragon Websoft,Online,60.0,exacte,0.57,5160.0,False,False,2023-Grid view.csv
+2023-06-30,2023,6,2,181,Puny Human,Puny Human,Altres empreses,183,,Indie,14.0,exacte,0.13,5174.0,False,False,2023-Grid view.csv
+2023-07-01,2023,7,3,182,A Thinking Ape,Embracer Group,Embracer Group,4,Embracer Group,Mobile,5.0,exacte,0.05,5179.0,False,False,2023-Grid view.csv
+2023-07-01,2023,7,3,182,Harebrained Schemes,Paradox Interactive,Altres empreses,59,Paradox Interactive,Indie,40.0,exacte,0.38,5219.0,False,False,2023-Grid view.csv
+2023-07-01,2023,7,3,182,TavroxGames,TavroxGames,Altres empreses,219,,Indie,4.0,exacte,0.04,5223.0,False,False,2023-Grid view.csv
+2023-07-06,2023,7,3,187,Adglobe Montreal,Skeleton Crew,Altres empreses,141,Skeleton Crew,AR/VR,29.0,exacte,0.28,5252.0,False,False,2023-Grid view.csv
+2023-07-11,2023,7,3,192,Product Madness,Aristocrat Games,Altres empreses,69,Aristocrat Games,Online,25.0,exacte,0.24,5277.0,False,False,2023-Grid view.csv
+2023-07-19,2023,7,3,200,Activision Blizzard,Activision Blizzard King,Altres empreses,77,Activision Blizzard King,Publisher,50.0,exacte,0.47,5327.0,False,False,2023-Grid view.csv
+2023-07-20,2023,7,3,201,Double Stallion Games,Double Stallion Games,Altres empreses,196,,Indie,10.0,exacte,0.09,5337.0,False,False,2023-Grid view.csv
+2023-07-26,2023,7,3,207,CD Projekt Red,CD Projekt,Altres empreses,47,CD Projekt,Console,100.0,exacte,0.95,5437.0,False,False,2023-Grid view.csv
+2023-07-31,2023,7,3,212,Striking Distance Studios,Krafton,Altres empreses,66,Krafton,Console,32.0,exacte,0.3,5469.0,False,False,2023-Grid view.csv
+2023-07-31,2023,7,3,212,Popcore,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Mobile,,no_disponible,,5469.0,False,False,2023-Grid view.csv
+2023-08-05,2023,8,3,217,Action Squad Studios,Action Squad Studios,Altres empreses,183,,Indie,14.0,exacte,0.13,5483.0,False,False,2023-Grid view.csv
+2023-08-08,2023,8,3,220,Campfire Cabal,Embracer Group,Embracer Group,4,Embracer Group,Console,18.0,exacte,0.17,5501.0,False,False,2023-Grid view.csv
+2023-08-11,2023,8,3,223,Imagendary Studios,FunPlus,Altres empreses,83,FunPlus,Console,55.0,exacte,0.52,5556.0,False,False,2023-Grid view.csv
+2023-08-21,2023,8,3,233,Vela Games,Vela Games,Altres empreses,98,,Online,45.0,exacte,0.43,5601.0,False,False,2023-Grid view.csv
+2023-08-23,2023,8,3,235,BioWare,Electronic Arts,Electronic Arts,3,Electronic Arts,Console,50.0,exacte,0.47,5651.0,False,False,2023-Grid view.csv
+2023-08-29,2023,8,3,241,Blackbird Interactive,Blackbird Interactive,Altres empreses,50,,Indie,90.0,exacte,0.85,5741.0,False,False,2023-Grid view.csv
+2023-08-29,2023,8,3,241,EastSide Games,EastSide Games,Altres empreses,143,,Mobile,28.0,exacte,0.27,5769.0,False,False,2023-Grid view.csv
+2023-08-29,2023,8,3,241,Mimimi,Mimimi,Altres empreses,131,,Indie,30.0,exacte,0.28,5799.0,False,False,2023-Grid view.csv
+2023-08-30,2023,8,3,242,Gearbox Publishing,Embracer Group,Embracer Group,4,Embracer Group,Publisher,,no_disponible,,5799.0,False,False,2023-Grid view.csv
+2023-08-30,2023,8,3,242,Romino Games,Romino Games,Altres empreses,145,,Indie,25.0,exacte,0.24,5824.0,False,False,2023-Grid view.csv
+2023-08-31,2023,8,3,243,Rainbow Studios,Embracer Group,Embracer Group,4,Embracer Group,Console,15.0,exacte,0.14,5839.0,False,False,2023-Grid view.csv
+2023-08-31,2023,8,3,243,Volition,Embracer Group,Embracer Group,4,Embracer Group,Console,240.0,exacte,2.28,6079.0,True,False,2023-Grid view.csv
+2023-08-31,2023,8,3,243,Keywords Edmonton,Keywords Studios,Altres empreses,156,Keywords Studios,Publisher,13.0,exacte,0.12,6092.0,False,False,2023-Grid view.csv
+2023-09-08,2023,9,3,251,Demiurge Studios,Demiurge Studios,Altres empreses,212,,Indie,5.0,exacte,0.05,6097.0,False,False,2023-Grid view.csv
+2023-09-08,2023,9,3,251,Telltale Games,Telltale Games,Altres empreses,222,,Indie,,no_disponible,,6097.0,False,False,2023-Grid view.csv
+2023-09-12,2023,9,3,255,Visual Concepts,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Console,,no_disponible,,6097.0,False,False,2023-Grid view.csv
+2023-09-14,2023,9,3,257,Ascendant Studios,Ascendant Studios,Altres empreses,88,,Console,50.0,exacte,0.47,6147.0,False,False,2023-Grid view.csv
+2023-09-14,2023,9,3,257,Ubisoft London,Ubisoft,Altres empreses,12,Ubisoft,Mobile,54.0,exacte,0.51,6201.0,False,False,2023-Grid view.csv
+2023-09-15,2023,9,3,258,DoubleDown Interactive,DoubleU Games Co Ltd.,Altres empreses,145,DoubleU Games Co Ltd.,Mobile,25.0,exacte,0.24,6226.0,False,False,2023-Grid view.csv
+2023-09-15,2023,9,3,258,BeamDog,Embracer Group,Embracer Group,4,Embracer Group,Console,23.0,exacte,0.22,6249.0,False,False,2023-Grid view.csv
+2023-09-15,2023,9,3,258,probablyMonsters,probablyMonsters,Altres empreses,52,,Indie,55.0,exacte,0.52,6304.0,False,False,2023-Grid view.csv
+2023-09-20,2023,9,3,263,Crystal Dynamics,Embracer Group,Embracer Group,4,Embracer Group,Console,10.0,exacte,0.09,6314.0,False,False,2023-Grid view.csv
+2023-09-22,2023,9,3,265,Naughty Dog,Sony Entertainment,Altres empreses,30,Sony Entertainment,Sense classificar,,no_disponible,,6314.0,False,False,2023-Grid view.csv
+2023-09-25,2023,9,3,268,Blizzard Entertainment,Activision Blizzard King,Altres empreses,77,Activision Blizzard King,Console,10.0,exacte,0.09,6324.0,False,False,2023-Grid view.csv
+2023-09-27,2023,9,3,270,Maze Theory,Emergent Entertainment,Altres empreses,190,Emergent Entertainment,AR/VR,12.0,exacte,0.11,6336.0,False,False,2023-Grid view.csv
+2023-09-27,2023,9,3,270,Other Ocean Interactive,Other Ocean Group Inc,Altres empreses,222,Other Ocean Group Inc,Indie,,no_disponible,,6336.0,False,False,2023-Grid view.csv
+2023-09-27,2023,9,3,270,Noggin,Paramount Global,Altres empreses,107,Paramount Global,Online,30.0,exacte,0.28,6366.0,False,False,2023-Grid view.csv
+2023-09-28,2023,9,3,271,Epic Games,Epic,Altres empreses,14,Epic,Tech,830.0,exacte,7.87,7196.0,True,False,2023-Grid view.csv
+2023-09-28,2023,9,3,271,Ubisoft Redstorm,Ubisoft,Altres empreses,12,Ubisoft,Publisher,6.0,exacte,0.06,7202.0,False,False,2023-Grid view.csv
+2023-09-30,2023,9,3,273,Fishlabs,Embracer Group,Embracer Group,4,Embracer Group,Console,8.0,exacte,0.08,7210.0,False,False,2023-Grid view.csv
+2023-10-02,2023,10,4,275,Dang!,Dang!,Altres empreses,212,,Indie,5.0,exacte,0.05,7215.0,False,False,2023-Grid view.csv
+2023-10-02,2023,10,4,275,Team17,Team17,Altres empreses,222,Team17,Publisher,,no_disponible,,7215.0,False,False,2023-Grid view.csv
+2023-10-03,2023,10,4,276,Twitch,Amazon,Amazon,7,Amazon,Online,35.0,exacte,0.33,7250.0,False,False,2023-Grid view.csv
+2023-10-04,2023,10,4,277,Hyper Hippos Entertainment,Hyper Hippos Entertainment,Altres empreses,109,,Mobile,30.0,exacte,0.28,7280.0,False,False,2023-Grid view.csv
+2023-10-05,2023,10,4,278,Rogue Games Inc,Rogue Games Inc,Altres empreses,196,,Publisher,10.0,exacte,0.09,7290.0,False,False,2023-Grid view.csv
+2023-10-05,2023,10,4,278,Calypte,Virtuos,Altres empreses,145,Virtuos,Publisher,15.0,exacte,0.14,7305.0,False,False,2023-Grid view.csv
+2023-10-06,2023,10,4,279,Drifter Entertainment,Drifter Entertainment,Altres empreses,175,,Indie,15.0,exacte,0.14,7320.0,False,False,2023-Grid view.csv
+2023-10-12,2023,10,4,285,ForeVR Games,ForeVR Games,Altres empreses,212,,AR/VR,5.0,exacte,0.05,7325.0,False,False,2023-Grid view.csv
+2023-10-13,2023,10,4,286,Zen Studios,Embracer Group,Embracer Group,4,Embracer Group,Console,32.0,exacte,0.3,7357.0,False,False,2023-Grid view.csv
+2023-10-17,2023,10,4,290,Frontier Developments,Frontier Developments,Altres empreses,222,,Console,,no_disponible,,7357.0,False,False,2023-Grid view.csv
+2023-10-18,2023,10,4,291,Six to Start,OliveX,Altres empreses,190,OliveX,Mobile,12.0,exacte,0.11,7369.0,False,False,2023-Grid view.csv
+2023-10-18,2023,10,4,291,Media Molecule,Sony Entertainment,Altres empreses,30,Sony Entertainment,Console,20.0,exacte,0.19,7389.0,False,False,2023-Grid view.csv
+2023-10-18,2023,10,4,291,PlayStation VASG,Sony Entertainment,Altres empreses,30,Sony Entertainment,Console,,no_disponible,,7389.0,False,False,2023-Grid view.csv
+2023-10-23,2023,10,4,296,LevelEx,BrainLab,Altres empreses,183,BrainLab,Mobile,14.0,exacte,0.13,7403.0,False,False,2023-Grid view.csv
+2023-10-23,2023,10,4,296,LuoBu,Roblox,Altres empreses,98,Roblox,Online,15.0,exacte,0.14,7418.0,False,False,2023-Grid view.csv
+2023-10-29,2023,10,4,302,MotorSport Games,MotorSport Network,Altres empreses,117,MotorSport Network,Console,38.0,exacte,0.36,7456.0,False,False,2023-Grid view.csv
+2023-10-30,2023,10,4,303,Bungie,Sony Entertainment,Altres empreses,30,Sony Entertainment,Console,100.0,exacte,0.95,7556.0,False,False,2023-Grid view.csv
+2023-10-31,2023,10,4,304,DR Studios,505 Games,Altres empreses,222,505 Games,Console,,no_disponible,,7556.0,False,False,2023-Grid view.csv
+2023-11-02,2023,11,4,306,Cryptic Studios,Embracer Group,Embracer Group,4,Embracer Group,Online,,no_disponible,,7556.0,False,False,2023-Grid view.csv
+2023-11-02,2023,11,4,306,Chimera Entertainment,Remote Control Productions,Altres empreses,119,Remote Control Productions,Mobile,15.0,exacte,0.14,7571.0,False,False,2023-Grid view.csv
+2023-11-07,2023,11,4,311,Ubisoft Montreal,Ubisoft,Altres empreses,12,Ubisoft,Console,135.0,exacte,1.28,7706.0,False,False,2023-Grid view.csv
+2023-11-08,2023,11,4,312,Free Radical Design,Embracer Group,Embracer Group,4,Embracer Group,Console,80.0,exacte,0.76,7786.0,False,False,2023-Grid view.csv
+2023-11-09,2023,11,4,313,Digital Extremes,Leyou,Altres empreses,131,Leyou,Online,30.0,exacte,0.28,7816.0,False,False,2023-Grid view.csv
+2023-11-13,2023,11,4,317,Amazon Games,Amazon,Amazon,7,Amazon,Publisher,180.0,exacte,1.71,7996.0,False,False,2023-Grid view.csv
+2023-11-14,2023,11,4,318,Digital Bros Group,Digital Bros Group,Altres empreses,44,,Publisher,130.0,exacte,1.23,8126.0,False,False,2023-Grid view.csv
+2023-11-14,2023,11,4,318,Humble Games,Humble Bundle,Altres empreses,222,Humble Bundle,Publisher,,no_disponible,,8126.0,False,False,2023-Grid view.csv
+2023-11-14,2023,11,4,318,Kongregate,Modern Times Group,Altres empreses,162,Modern Times Group,Online,20.0,exacte,0.19,8146.0,False,False,2023-Grid view.csv
+2023-11-15,2023,11,4,319,Blackbird Interactive,Blackbird Interactive,Altres empreses,50,,Indie,30.0,exacte,0.28,8176.0,False,False,2023-Grid view.csv
+2023-11-16,2023,11,4,320,Embracer Placeholder,Embracer Group,Embracer Group,4,Embracer Group,Publisher,473.0,exacte,4.49,8649.0,True,False,2023-Grid view.csv
+2023-11-16,2023,11,4,320,Two Desperados,Two Desperados,Altres empreses,162,,Indie,20.0,exacte,0.19,8669.0,False,False,2023-Grid view.csv
+2023-11-17,2023,11,4,321,Dark Slope,Dark Slope,Altres empreses,204,,AR/VR,7.0,exacte,0.07,8676.0,False,False,2023-Grid view.csv
+2023-11-20,2023,11,4,324,Papukaya,Papukaya,Altres empreses,212,,Mobile,5.0,exacte,0.05,8681.0,False,False,2023-Grid view.csv
+2023-11-22,2023,11,4,326,Wildlife Studios,Wildlife Studios,Altres empreses,13,,Mobile,300.0,exacte,2.84,8981.0,True,False,2023-Grid view.csv
+2023-11-24,2023,11,4,328,NanoReality Games Ltd.,NanoReality Games Ltd.,Altres empreses,222,,Mobile,,no_disponible,,8981.0,False,False,2023-Grid view.csv
+2023-11-27,2023,11,4,331,Zhoaoxi Guangnian (Nuverse),ByteDance,ByteDance,8,ByteDance,Online,1000.0,exacte,9.48,9981.0,True,False,2023-Grid view.csv
+2023-11-28,2023,11,4,332,Fishlabs,Embracer Group,Embracer Group,4,Embracer Group,Console,50.0,exacte,0.47,10031.0,False,False,2023-Grid view.csv
+2023-11-28,2023,11,4,332,Weta Digital,Unity,Unity,2,Unity,Tech,265.0,exacte,2.51,10296.0,True,False,2023-Grid view.csv
+2023-11-30,2023,11,4,334,Bossa Studios,Bossa Studios,Altres empreses,171,,Indie,19.0,exacte,0.18,10315.0,False,False,2023-Grid view.csv
+2023-11-30,2023,11,4,334,Phoenix Labs,Phoenix Labs,Altres empreses,119,,Online,35.0,exacte,0.33,10350.0,False,False,2023-Grid view.csv
+2023-12-01,2023,12,4,335,IGUO Mobile Entertainment,Embracer Group,Embracer Group,4,Embracer Group,Mobile,8.0,exacte,0.08,10358.0,False,False,2023-Grid view.csv
+2023-12-04,2023,12,4,338,Age of Learning Inc.,ABC Mouse,Altres empreses,48,ABC Mouse,Online,,no_disponible,,10358.0,False,False,2023-Grid view.csv
+2023-12-04,2023,12,4,338,CodeMasters,Electronic Arts,Electronic Arts,3,Electronic Arts,Console,,no_disponible,,10358.0,False,False,2023-Grid view.csv
+2023-12-04,2023,12,4,338,New World Intertactive,Embracer Group,Embracer Group,4,Embracer Group,Console,,no_disponible,,10358.0,False,False,2023-Grid view.csv
+2023-12-05,2023,12,4,339,Rovio Montreal,SEGA,Altres empreses,21,SEGA,Console,16.0,exacte,0.15,10374.0,False,False,2023-Grid view.csv
+2023-12-05,2023,12,4,339,HakJak Studios,TinyBuild,Altres empreses,106,TinyBuild,Mobile,16.0,exacte,0.15,10390.0,False,False,2023-Grid view.csv
+2023-12-06,2023,12,4,340,Funselektor Labs,Funselektor Labs,Altres empreses,221,,Indie,3.0,exacte,0.03,10393.0,False,False,2023-Grid view.csv
+2023-12-06,2023,12,4,340,League of Geeks,League of Geeks,Altres empreses,141,,Indie,29.0,exacte,0.28,10422.0,False,False,2023-Grid view.csv
+2023-12-08,2023,12,4,342,Triple Topping Games,Triple Topping Games,Altres empreses,196,,Indie,10.0,exacte,0.09,10432.0,False,False,2023-Grid view.csv
+2023-12-14,2023,12,4,348,3D Realms / Slipgate Ironworks,Embracer Group,Embracer Group,4,Embracer Group,Console,,no_disponible,,10432.0,False,False,2023-Grid view.csv
+2023-12-18,2023,12,4,352,Wonderstorm Inc.,Wonderstorm Inc.,Altres empreses,222,,Console,,no_disponible,,10432.0,False,False,2023-Grid view.csv
+2023-12-21,2023,12,4,355,First Contact Entertainment,First Contact Entertainment,Altres empreses,109,,AR/VR,40.0,exacte,0.38,10472.0,False,False,2023-Grid view.csv
+2023-12-22,2023,12,4,356,Versus Evil,TinyBuild,Altres empreses,106,TinyBuild,Publisher,13.0,exacte,0.12,10485.0,False,False,2023-Grid view.csv
+2023-12-26,2023,12,4,360,Lion Games,Lion Games,Altres empreses,77,,Mobile,60.0,exacte,0.57,10545.0,False,False,2023-Grid view.csv
+2024-01-02,2024,1,1,2,Archiact,Archiact,Altres empreses,128,,AR/VR,20.0,exacte,0.14,20.0,False,False,2024-Grid view.csv
+2024-01-03,2024,1,1,3,Sliptegate Iron Works,Embracer Group,Embracer Group,4,Embracer Group,Console,,no_disponible,,20.0,False,False,2024-Grid view.csv
+2024-01-08,2024,1,1,8,Unity Technologies,Unity,Unity,2,Unity,Tech,1800.0,exacte,12.33,1820.0,True,False,2024-Grid view.csv
+2024-01-10,2024,1,1,10,Twitch,Amazon,Amazon,7,Amazon,Online,500.0,exacte,3.42,2320.0,True,False,2024-Grid view.csv
+2024-01-11,2024,1,1,11,Playtika,Playtika,Playtika,5,Playtika,Mobile,350.0,exacte,2.4,2670.0,True,False,2024-Grid view.csv
+2024-01-12,2024,1,1,12,Nesting Games,Digital Bros,Altres empreses,75,Digital Bros,Console,68.0,exacte,0.47,2738.0,False,False,2024-Grid view.csv
+2024-01-12,2024,1,1,12,Lost Boys Interactive,Embracer Group,Embracer Group,4,Embracer Group,Console,125.0,exacte,0.86,2863.0,False,False,2024-Grid view.csv
+2024-01-16,2024,1,1,16,Prahna Bytes,Embracer Group,Embracer Group,4,Embracer Group,Console,,no_disponible,,2863.0,False,False,2024-Grid view.csv
+2024-01-16,2024,1,1,16,PTW,PTW,Altres empreses,98,,Publisher,45.0,exacte,0.31,2908.0,False,False,2024-Grid view.csv
+2024-01-17,2024,1,1,17,Netspeak Games,Netspeak Games,Altres empreses,145,,Indie,25.0,exacte,0.17,2933.0,False,False,2024-Grid view.csv
+2024-01-17,2024,1,1,17,Pixelberry,Nexon,Altres empreses,63,Nexon,Mobile,,no_disponible,,2933.0,False,False,2024-Grid view.csv
+2024-01-17,2024,1,1,17,Thunderful Group,Thunderful Group,Altres empreses,27,Thunderful Group,Publisher,75.0,exacte,0.51,3008.0,False,False,2024-Grid view.csv
+2024-01-17,2024,1,1,17,Wimo Games,Wimo Games,Altres empreses,162,,Online,20.0,exacte,0.14,3028.0,False,False,2024-Grid view.csv
+2024-01-18,2024,1,1,18,Behaviour Interactive,Behaviour Interactive,Altres empreses,33,,Console,45.0,exacte,0.31,3073.0,False,False,2024-Grid view.csv
+2024-01-18,2024,1,1,18,CI Games,CI Games,Altres empreses,77,,Console,30.0,exacte,0.21,3103.0,False,False,2024-Grid view.csv
+2024-01-18,2024,1,1,18,Ntreev Soft,NCSoft,Altres empreses,19,NCSoft,Online,70.0,exacte,0.48,3173.0,False,False,2024-Grid view.csv
+2024-01-18,2024,1,1,18,31st Union,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Console,,no_disponible,,3173.0,False,False,2024-Grid view.csv
+2024-01-19,2024,1,1,19,Chief Rebel,Chief Rebel,Altres empreses,222,,Indie,,no_disponible,,3173.0,False,False,2024-Grid view.csv
+2024-01-19,2024,1,1,19,Metaverse World,Netmarble,Altres empreses,36,Netmarble,Online,70.0,exacte,0.48,3243.0,False,False,2024-Grid view.csv
+2024-01-22,2024,1,1,22,Little Red Dog Games,Little Red Dog Games,Altres empreses,131,,Console,30.0,exacte,0.21,3273.0,False,False,2024-Grid view.csv
+2024-01-22,2024,1,1,22,Riot Games,Tencent,Tencent,9,Tencent,Online,530.0,exacte,3.63,3803.0,True,False,2024-Grid view.csv
+2024-01-23,2024,1,1,23,Warducks,Warducks,Altres empreses,196,,Mobile,10.0,exacte,0.07,3813.0,False,False,2024-Grid view.csv
+2024-01-24,2024,1,1,24,Plarium,Aristocrat Games,Altres empreses,69,Aristocrat Games,Mobile,45.0,exacte,0.31,3858.0,False,False,2024-Grid view.csv
+2024-01-24,2024,1,1,24,People Can Fly Studios,People Can Fly Studios,Altres empreses,40,,Console,30.0,exacte,0.21,3888.0,False,False,2024-Grid view.csv
+2024-01-25,2024,1,1,25,Black Forest Games,Embracer Group,Embracer Group,4,Embracer Group,Console,40.0,exacte,0.27,3928.0,False,False,2024-Grid view.csv
+2024-01-25,2024,1,1,25,Activision Blizzard,Microsoft,Microsoft,1,Microsoft,Console,1900.0,exacte,13.01,5828.0,True,False,2024-Grid view.csv
+2024-01-29,2024,1,1,29,Eidos Montreal,Embracer Group,Embracer Group,4,Embracer Group,Console,97.0,exacte,0.66,5925.0,False,False,2024-Grid view.csv
+2024-01-30,2024,1,1,30,Nimble Giant,Embracer Group,Embracer Group,4,Embracer Group,Console,,no_disponible,,5925.0,False,False,2024-Grid view.csv
+2024-01-30,2024,1,1,30,Starword Industries,Starword Industries,Altres empreses,175,,Console,15.0,exacte,0.1,5940.0,False,False,2024-Grid view.csv
+2024-01-31,2024,1,1,31,Airship Syndicate,Airship Syndicate,Altres empreses,143,,Indie,12.0,exacte,0.08,5952.0,False,False,2024-Grid view.csv
+2024-01-31,2024,1,1,31,Artificer,Devolver Digital,Altres empreses,204,Devolver Digital,Console,,no_disponible,,5952.0,False,False,2024-Grid view.csv
+2024-01-31,2024,1,1,31,Rovio Montreal,SEGA,Altres empreses,21,SEGA,Mobile,12.0,exacte,0.08,5964.0,False,False,2024-Grid view.csv
+2024-02-01,2024,2,1,32,Chimera Entertainment,Remote Control Productions,Altres empreses,119,Remote Control Productions,Mobile,20.0,exacte,0.14,5984.0,False,False,2024-Grid view.csv
+2024-02-01,2024,2,1,32,Threaks,Threaks,Altres empreses,145,,Indie,25.0,exacte,0.17,6009.0,False,False,2024-Grid view.csv
+2024-02-05,2024,2,1,36,Crop Circle Games,Prytania Media,Altres empreses,77,Prytania Media,Indie,,no_disponible,,6009.0,False,False,2024-Grid view.csv
+2024-02-06,2024,2,1,37,Cloud Imperium Games,Cloud Imperium Games,Altres empreses,222,,Indie,,no_disponible,,6009.0,False,False,2024-Grid view.csv
+2024-02-06,2024,2,1,37,Visual Concepts,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Console,,no_disponible,,6009.0,False,False,2024-Grid view.csv
+2024-02-07,2024,2,1,38,91Act,91Act,Altres empreses,175,,Indie,15.0,exacte,0.1,6024.0,False,False,2024-Grid view.csv
+2024-02-07,2024,2,1,38,Hidden Path Entertainment,Hidden Path Entertainment,Altres empreses,104,,Indie,44.0,exacte,0.3,6068.0,False,False,2024-Grid view.csv
+2024-02-07,2024,2,1,38,GameScience,Prytania Media,Altres empreses,77,Prytania Media,Indie,10.0,exacte,0.07,6078.0,False,False,2024-Grid view.csv
+2024-02-09,2024,2,1,40,Threshold Games,Threshold Games,Altres empreses,194,,Indie,11.0,exacte,0.08,6089.0,False,False,2024-Grid view.csv
+2024-02-12,2024,2,1,43,Daybreak Games,Enad Global 7,Altres empreses,26,Enad Global 7,Online,15.0,exacte,0.1,6104.0,False,False,2024-Grid view.csv
+2024-02-12,2024,2,1,43,Genvid Technologies,Genvid Technologies,Altres empreses,222,,Online,,no_disponible,,6104.0,False,False,2024-Grid view.csv
+2024-02-14,2024,2,1,45,Scopely,Savvy Games Group,Altres empreses,175,Savvy Games Group,Mobile,15.0,exacte,0.1,6119.0,False,False,2024-Grid view.csv
+2024-02-16,2024,2,1,47,Noggin,Paramount Global,Altres empreses,107,Paramount Global,Online,,no_disponible,,6119.0,False,False,2024-Grid view.csv
+2024-02-19,2024,2,1,50,Build a Rocket Boy,Build a Rocket Boy,Altres empreses,25,,Console,,no_disponible,,6119.0,False,False,2024-Grid view.csv
+2024-02-21,2024,2,1,52,Disruptive Games,Disruptive Games,Altres empreses,222,,Console,,no_disponible,,6119.0,False,False,2024-Grid view.csv
+2024-02-21,2024,2,1,52,GameLoft Lviv,Viacom,Altres empreses,61,Viacom,Mobile,38.0,exacte,0.26,6157.0,False,False,2024-Grid view.csv
+2024-02-23,2024,2,1,54,CodeMasters,Electronic Arts,Electronic Arts,3,Electronic Arts,Mobile,,no_disponible,,6157.0,False,False,2024-Grid view.csv
+2024-02-26,2024,2,1,57,Die Gut Fabrik,Die Gut Fabrik,Altres empreses,196,,Indie,10.0,exacte,0.07,6167.0,False,False,2024-Grid view.csv
+2024-02-26,2024,2,1,57,SuperMassive Games,SuperMassive Games,Altres empreses,49,,Console,90.0,exacte,0.62,6257.0,False,False,2024-Grid view.csv
+2024-02-27,2024,2,1,58,Deck Nine Games,Deck Nine Games,Altres empreses,83,,Console,25.0,exacte,0.17,6282.0,False,False,2024-Grid view.csv
+2024-02-27,2024,2,1,58,PlayStation London,PlayStation London,Altres empreses,222,,Console,,no_disponible,,6282.0,False,False,2024-Grid view.csv
+2024-02-27,2024,2,1,58,PlayStation Studios,Sony,Sony,6,Sony,Console,900.0,exacte,6.16,7182.0,True,False,2024-Grid view.csv
+2024-02-28,2024,2,1,59,Electronic Arts,Electronic Arts,Electronic Arts,3,Electronic Arts,Publisher,670.0,exacte,4.59,7852.0,True,False,2024-Grid view.csv
+2024-02-28,2024,2,1,59,Wildlife Studios,Wildlife Studios,Altres empreses,13,,Mobile,130.0,exacte,0.89,7982.0,False,False,2024-Grid view.csv
+2024-02-29,2024,2,1,60,505 Games,Digital Bros,Altres empreses,75,Digital Bros,Publisher,,no_disponible,,7982.0,False,False,2024-Grid view.csv
+2024-02-29,2024,2,1,60,Keoken Interactive,Keoken Interactive,Altres empreses,173,,Indie,4.0,exacte,0.03,7986.0,False,False,2024-Grid view.csv
+2024-03-01,2024,3,1,61,Babaroga Games,Babaroga Games,Altres empreses,219,,Indie,4.0,exacte,0.03,7990.0,False,False,2024-Grid view.csv
+2024-03-01,2024,3,1,61,FrogSong Studios,FrogSong Studios,Altres empreses,145,,Indie,25.0,exacte,0.17,8015.0,False,False,2024-Grid view.csv
+2024-03-01,2024,3,1,61,Radical Forge,Radical Forge,Altres empreses,206,,Indie,6.0,exacte,0.04,8021.0,False,False,2024-Grid view.csv
+2024-03-06,2024,3,1,66,ZA/UM,ZA/UM,Altres empreses,156,,Indie,24.0,exacte,0.16,8045.0,False,False,2024-Grid view.csv
+2024-03-08,2024,3,1,68,Deviation Games,Deviation Games,Altres empreses,43,,Console,50.0,exacte,0.34,8095.0,False,False,2024-Grid view.csv
+2024-03-08,2024,3,1,68,Sega of America,SEGA,Altres empreses,21,SEGA,Publisher,61.0,exacte,0.42,8156.0,False,False,2024-Grid view.csv
+2024-03-15,2024,3,1,75,Something Wicked Games,Something Wicked Games,Altres empreses,109,,Indie,40.0,exacte,0.27,8196.0,False,False,2024-Grid view.csv
+2024-03-17,2024,3,1,77,Happy Volcano,Happy Volcano,Altres empreses,203,,Indie,8.0,exacte,0.05,8204.0,False,False,2024-Grid view.csv
+2024-03-17,2024,3,1,77,Velan Studios,Velan Studios,Altres empreses,96,,Indie,46.0,exacte,0.32,8250.0,False,False,2024-Grid view.csv
+2024-03-22,2024,3,1,82,Tarsier Studios,Embracer Group,Embracer Group,4,Embracer Group,Console,,no_disponible,,8250.0,False,False,2024-Grid view.csv
+2024-03-27,2024,3,1,87,Smilegate Barcelona,Smilegate,Altres empreses,98,Smilegate,Console,45.0,exacte,0.31,8295.0,False,False,2024-Grid view.csv
+2024-03-28,2024,3,1,88,Certain Affinity,Certain Affinity,Altres empreses,145,,Indie,25.0,exacte,0.17,8320.0,False,False,2024-Grid view.csv
+2024-03-28,2024,3,1,88,Creative Assembly,SEGA,Altres empreses,21,SEGA,Console,240.0,exacte,1.64,8560.0,True,False,2024-Grid view.csv
+2024-03-28,2024,3,1,88,Sega HARDLight,SEGA,Altres empreses,21,SEGA,Mobile,,no_disponible,,8560.0,False,False,2024-Grid view.csv
+2024-03-28,2024,3,1,88,Gearbox Publishing,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Publisher,,no_disponible,,8560.0,False,False,2024-Grid view.csv
+2024-04-01,2024,4,2,92,Bold Spirit Game Studio,Bold Spirit Game Studio,Altres empreses,131,,Indie,30.0,exacte,0.21,8590.0,False,False,2024-Grid view.csv
+2024-04-02,2024,4,2,93,Ubisoft,Ubisoft,Altres empreses,12,Ubisoft,Publisher,45.0,exacte,0.31,8635.0,False,False,2024-Grid view.csv
+2024-04-03,2024,4,2,94,MI-CLOS Studio,MI-CLOS Studio,Altres empreses,162,,Indie,20.0,exacte,0.14,8655.0,False,False,2024-Grid view.csv
+2024-04-03,2024,4,2,94,Spearhead Games,Spearhead Games,Altres empreses,129,,Indie,31.0,exacte,0.21,8686.0,False,False,2024-Grid view.csv
+2024-04-03,2024,4,2,94,Whitethorn Games,Whitethorn Games,Altres empreses,212,,Publisher,5.0,exacte,0.03,8691.0,False,False,2024-Grid view.csv
+2024-04-04,2024,4,2,95,Relic Entertainment,Relic Entertainment,Altres empreses,109,,Indie,40.0,exacte,0.27,8731.0,False,False,2024-Grid view.csv
+2024-04-04,2024,4,2,95,Singularity 6,Singularity 6,Altres empreses,62,,Online,49.0,exacte,0.34,8780.0,False,False,2024-Grid view.csv
+2024-04-09,2024,4,2,100,Ubisoft Korea,Ubisoft,Altres empreses,12,Ubisoft,Publisher,,no_disponible,,8780.0,False,False,2024-Grid view.csv
+2024-04-12,2024,4,2,103,Possibility Space,Prytania Media,Altres empreses,77,Prytania Media,Indie,50.0,exacte,0.34,8830.0,False,False,2024-Grid view.csv
+2024-04-16,2024,4,2,107,Kwalee,Kwalee,Altres empreses,109,,Mobile,40.0,exacte,0.27,8870.0,False,False,2024-Grid view.csv
+2024-04-17,2024,4,2,108,TakeTwo Interactive,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Publisher,600.0,exacte,4.11,9470.0,True,False,2024-Grid view.csv
+2024-04-18,2024,4,2,109,ModernWolf,ModernWolf,Altres empreses,206,,Publisher,6.0,exacte,0.04,9476.0,False,False,2024-Grid view.csv
+2024-04-23,2024,4,2,114,Flaming Fowl Studios,Flaming Fowl Studios,Altres empreses,162,,Indie,20.0,exacte,0.14,9496.0,False,False,2024-Grid view.csv
+2024-04-23,2024,4,2,114,Bethesda France,Microsoft,Microsoft,1,Microsoft,Publisher,15.0,exacte,0.1,9511.0,False,False,2024-Grid view.csv
+2024-04-26,2024,4,2,117,NCSoft,NCSoft,Altres empreses,19,NCSoft,Publisher,,no_disponible,,9511.0,False,False,2024-Grid view.csv
+2024-04-30,2024,4,2,121,Keoken Interactive,Keoken Interactive,Altres empreses,173,,Indie,13.0,exacte,0.09,9524.0,False,False,2024-Grid view.csv
+2024-04-30,2024,4,2,121,Playtika Belarus,Playtika,Playtika,5,Playtika,Sense classificar,150.0,exacte,1.03,9674.0,False,False,2024-Grid view.csv
+2024-05-02,2024,5,2,123,Paladin Studios,Paladin Studios,Altres empreses,98,,Indie,45.0,exacte,0.31,9719.0,False,False,2024-Grid view.csv
+2024-05-07,2024,5,2,128,Alpha Dog Games,Microsoft,Microsoft,1,Microsoft,Mobile,25.0,exacte,0.17,9744.0,False,False,2024-Grid view.csv
+2024-05-07,2024,5,2,128,Arkane Austin,Microsoft,Microsoft,1,Microsoft,Console,60.0,exacte,0.41,9804.0,False,False,2024-Grid view.csv
+2024-05-07,2024,5,2,128,Bethesda Softworks,Microsoft,Microsoft,1,Microsoft,Publisher,,no_disponible,,9804.0,False,False,2024-Grid view.csv
+2024-05-07,2024,5,2,128,Tango GameWorks,Microsoft,Microsoft,1,Microsoft,Console,150.0,exacte,1.03,9954.0,False,False,2024-Grid view.csv
+2024-05-08,2024,5,2,129,Lightforge Games,Lightforge Games,Altres empreses,119,,Online,35.0,exacte,0.24,9989.0,False,False,2024-Grid view.csv
+2024-05-08,2024,5,2,129,Dawon Interactive,Prytania Media,Altres empreses,77,Prytania Media,Indie,,no_disponible,,9989.0,False,False,2024-Grid view.csv
+2024-05-10,2024,5,2,131,CI Games,CI Games,Altres empreses,77,,Indie,30.0,exacte,0.21,10019.0,False,False,2024-Grid view.csv
+2024-05-13,2024,5,2,134,Mighty Kingdom,Mighty Kingdom,Altres empreses,145,,Mobile,25.0,exacte,0.17,10044.0,False,False,2024-Grid view.csv
+2024-05-15,2024,5,2,136,Studio Wildcard,SDE Inc.,Altres empreses,206,SDE Inc.,Console,6.0,exacte,0.04,10050.0,False,False,2024-Grid view.csv
+2024-05-16,2024,5,2,137,Phoenix Labs,Forte,Altres empreses,28,Forte,Console,162.0,exacte,1.11,10212.0,False,False,2024-Grid view.csv
+2024-05-16,2024,5,2,137,Singularity 6,Singularity 6,Altres empreses,62,,Online,36.0,exacte,0.25,10248.0,False,False,2024-Grid view.csv
+2024-05-16,2024,5,2,137,GameLoft Cluj,Vivendi,Altres empreses,35,Vivendi,Mobile,136.0,exacte,0.93,10384.0,False,False,2024-Grid view.csv
+2024-05-23,2024,5,2,144,Fall Damage,Fragbite,Altres empreses,88,Fragbite,Online,50.0,exacte,0.34,10434.0,False,False,2024-Grid view.csv
+2024-05-23,2024,5,2,144,Hatchery Games,Hatchery Games,Altres empreses,187,,Indie,13.0,exacte,0.09,10447.0,False,False,2024-Grid view.csv
+2024-06-03,2024,6,2,155,Avalanche Studios,Avalanche Studios Group,Altres empreses,63,Avalanche Studios Group,Console,,no_disponible,,10447.0,False,False,2024-Grid view.csv
+2024-06-03,2024,6,2,155,Avalanche Studios,Avalanche Studios Group,Altres empreses,63,Avalanche Studios Group,Console,50.0,exacte,0.34,10497.0,False,False,2024-Grid view.csv
+2024-06-04,2024,6,2,156,Behaviour Interactive,Behaviour Interactive,Altres empreses,33,,Console,95.0,exacte,0.65,10592.0,False,False,2024-Grid view.csv
+2024-06-05,2024,6,2,157,GameLoft Kharkiv,Vivendi,Altres empreses,35,Vivendi,Mobile,41.0,exacte,0.28,10633.0,False,False,2024-Grid view.csv
+2024-06-11,2024,6,2,163,Sumo Group,Tencent,Tencent,9,Tencent,Console,150.0,exacte,1.03,10783.0,False,False,2024-Grid view.csv
+2024-06-11,2024,6,2,163,Timbre Games,Tencent,Tencent,9,Tencent,Console,100.0,exacte,0.68,10883.0,False,False,2024-Grid view.csv
+2024-06-12,2024,6,2,164,Archiact,Archiact,Altres empreses,128,,AR/VR,,no_disponible,,10883.0,False,False,2024-Grid view.csv
+2024-06-12,2024,6,2,164,VRChat,VRChat,Altres empreses,88,,AR/VR,50.0,exacte,0.34,10933.0,False,False,2024-Grid view.csv
+2024-06-14,2024,6,2,166,Galvanic Games Inc.,Galvanic Games Inc.,Altres empreses,222,,Indie,,no_disponible,,10933.0,False,False,2024-Grid view.csv
+2024-06-14,2024,6,2,166,Striking Distance Studios,Krafton,Altres empreses,66,Krafton,Console,10.0,exacte,0.07,10943.0,False,False,2024-Grid view.csv
+2024-06-17,2024,6,2,169,Pieces Interactive AB,Embracer Group,Embracer Group,4,Embracer Group,Console,40.0,exacte,0.27,10983.0,False,False,2024-Grid view.csv
+2024-06-18,2024,6,2,170,Paradox Tectonic,Paradox Interactive,Altres empreses,59,Paradox Interactive,Console,18.0,exacte,0.12,11001.0,False,False,2024-Grid view.csv
+2024-06-18,2024,6,2,170,Techland,Tencent,Tencent,9,Tencent,Console,,no_disponible,,11001.0,False,False,2024-Grid view.csv
+2024-06-26,2024,6,2,178,GameLoft Toronto,Viacom,Altres empreses,61,Viacom,Mobile,49.0,exacte,0.34,11050.0,False,False,2024-Grid view.csv
+2024-06-27,2024,6,2,179,Ubisoft Toronto,Ubisoft,Altres empreses,12,Ubisoft,Console,33.0,exacte,0.23,11083.0,False,False,2024-Grid view.csv
+2024-07-02,2024,7,3,184,Surgent Studios,Surgent Studios,Altres empreses,190,,Indie,12.0,exacte,0.08,11095.0,False,False,2024-Grid view.csv
+2024-07-03,2024,7,3,185,Wicked Games AG.,Wicked Games AG.,Altres empreses,175,,Indie,15.0,exacte,0.1,11110.0,False,False,2024-Grid view.csv
+2024-07-11,2024,7,3,193,Splash Damage,Splash Damage Group Limited,Altres empreses,222,Splash Damage Group Limited,Console,,no_disponible,,11110.0,False,False,2024-Grid view.csv
+2024-07-12,2024,7,3,194,Rumble Games,Forte,Altres empreses,28,Forte,Mobile,35.0,exacte,0.24,11145.0,False,False,2024-Grid view.csv
+2024-07-17,2024,7,3,199,NetherRealm Studios,Warner Bros.,Altres empreses,22,Warner Bros.,Console,50.0,exacte,0.34,11195.0,False,False,2024-Grid view.csv
+2024-07-23,2024,7,3,205,Humble Games,Ziff Davis,Altres empreses,118,Ziff Davis,Publisher,36.0,exacte,0.25,11231.0,False,False,2024-Grid view.csv
+2024-07-29,2024,7,3,211,Lively Studio,Keywords Studios,Altres empreses,156,Keywords Studios,Mobile,,no_disponible,,11231.0,False,False,2024-Grid view.csv
+2024-07-31,2024,7,3,213,Bungie,Sony,Sony,6,Sony,Console,220.0,exacte,1.51,11451.0,True,False,2024-Grid view.csv
+2024-08-01,2024,8,3,214,probablyMonsters,probablyMonsters,Altres empreses,52,,Console,,no_disponible,,11451.0,False,False,2024-Grid view.csv
+2024-08-02,2024,8,3,215,Jam City,Netmarble,Altres empreses,36,Netmarble,Mobile,85.0,exacte,0.58,11536.0,False,False,2024-Grid view.csv
+2024-08-08,2024,8,3,221,Ready at Dawn,Meta,Altres empreses,44,Meta,AR/VR,,no_disponible,,11536.0,False,False,2024-Grid view.csv
+2024-08-09,2024,8,3,222,Com2Us,Com2Us,Altres empreses,55,Com2Us,Mobile,100.0,exacte,0.68,11636.0,False,False,2024-Grid view.csv
+2024-08-12,2024,8,3,225,Archiact,Archiact,Altres empreses,128,,AR/VR,12.0,exacte,0.08,11648.0,False,False,2024-Grid view.csv
+2024-08-15,2024,8,3,228,Machine Zone,AppLovin,Altres empreses,34,AppLovin,Mobile,,no_disponible,,11648.0,False,False,2024-Grid view.csv
+2024-08-15,2024,8,3,228,Ubisoft San Francisco,Ubisoft,Altres empreses,12,Ubisoft,Console,45.0,exacte,0.31,11693.0,False,False,2024-Grid view.csv
+2024-08-16,2024,8,3,229,CodeName Entertainment,CodeName Entertainment,Altres empreses,206,,Indie,6.0,exacte,0.04,11699.0,False,False,2024-Grid view.csv
+2024-08-23,2024,8,3,236,Visual Concepts,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Console,22.0,exacte,0.15,11721.0,False,False,2024-Grid view.csv
+2024-08-28,2024,8,3,241,Toadman Interactive,Enad Global 7,Altres empreses,26,Enad Global 7,Console,,no_disponible,,11721.0,False,False,2024-Grid view.csv
+2024-08-28,2024,8,3,241,Toadman Interactive,Enad Global 7,Altres empreses,26,Enad Global 7,Console,100.0,exacte,0.68,11821.0,False,False,2024-Grid view.csv
+2024-08-28,2024,8,3,241,Ouka Studios,NetEase,Altres empreses,39,NetEase,Console,,no_disponible,,11821.0,False,False,2024-Grid view.csv
+2024-08-30,2024,8,3,243,Ballistic Moon Ltd.,Ballistic Moon Ltd.,Altres empreses,222,,Console,,no_disponible,,11821.0,False,False,2024-Grid view.csv
+2024-09-02,2024,9,3,246,Tilting Point,Tilting Point,Altres empreses,40,,Mobile,90.0,exacte,0.62,11911.0,False,False,2024-Grid view.csv
+2024-09-06,2024,9,3,250,Lost Boys Interactive,Embracer Group,Embracer Group,4,Embracer Group,Console,139.0,exacte,0.95,12050.0,False,False,2024-Grid view.csv
+2024-09-11,2024,9,3,255,Midnight Society,Midnight Society,Altres empreses,83,,Online,,no_disponible,,12050.0,False,False,2024-Grid view.csv
+2024-09-12,2024,9,3,256,Microsoft Gaming,Microsoft,Microsoft,1,Microsoft,Publisher,650.0,exacte,4.45,12700.0,True,False,2024-Grid view.csv
+2024-09-12,2024,9,3,256,Neon Machine,Neon Machine,Altres empreses,119,,Indie,35.0,exacte,0.24,12735.0,False,False,2024-Grid view.csv
+2024-09-13,2024,9,3,257,Evening Star,Evening Star,Altres empreses,206,,Indie,6.0,exacte,0.04,12741.0,False,False,2024-Grid view.csv
+2024-09-17,2024,9,3,261,Midwinter Entertainment,Behaviour Interactive,Altres empreses,33,Behaviour Interactive,Console,35.0,exacte,0.24,12776.0,False,False,2024-Grid view.csv
+2024-09-18,2024,9,3,262,Airship Syndicate,Airship Syndicate,Altres empreses,143,,Indie,16.0,exacte,0.11,12792.0,False,False,2024-Grid view.csv
+2024-09-18,2024,9,3,262,SkyBox Labs,NetEase,Altres empreses,39,NetEase,Online,25.0,exacte,0.17,12817.0,False,False,2024-Grid view.csv
+2024-09-23,2024,9,3,267,Mountaintop Studios,Mountaintop Studios,Altres empreses,60,,Online,13.0,exacte,0.09,12830.0,False,False,2024-Grid view.csv
+2024-09-26,2024,9,3,270,Merge Games,Maximum Entertainment,Altres empreses,222,Maximum Entertainment,Publisher,,no_disponible,,12830.0,False,False,2024-Grid view.csv
+2024-09-30,2024,9,3,274,Nexon America,Nexon,Altres empreses,63,Nexon,Publisher,,no_disponible,,12830.0,False,False,2024-Grid view.csv
+2024-10-01,2024,10,4,275,Hi-Rez Studios,Hirez Ventures,Altres empreses,69,Hirez Ventures,Online,70.0,exacte,0.48,12900.0,False,False,2024-Grid view.csv
+2024-10-01,2024,10,4,275,Sharkmob London,Tencent,Tencent,9,Tencent,Console,,no_disponible,,12900.0,False,False,2024-Grid view.csv
+2024-10-01,2024,10,4,275,XR Games,XR Games,Altres empreses,68,,AR/VR,72.0,exacte,0.49,12972.0,False,False,2024-Grid view.csv
+2024-10-02,2024,10,4,276,Studio Black Flag,Studio Black Flag,Altres empreses,212,,Indie,5.0,exacte,0.03,12977.0,False,False,2024-Grid view.csv
+2024-10-04,2024,10,4,278,Antstream Arcade,Antstream Arcade,Altres empreses,222,,Online,,no_disponible,,12977.0,False,False,2024-Grid view.csv
+2024-10-08,2024,10,4,282,Tequila Works,Tencent,Tencent,9,Tencent,Console,,no_disponible,,12977.0,False,False,2024-Grid view.csv
+2024-10-09,2024,10,4,283,Cryptic Studios,Embracer Group,Embracer Group,4,Embracer Group,Online,,no_disponible,,12977.0,False,False,2024-Grid view.csv
+2024-10-10,2024,10,4,284,NaturalMotion,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Mobile,,no_disponible,,12977.0,False,False,2024-Grid view.csv
+2024-10-15,2024,10,4,289,Riot Games,Tencent,Tencent,9,Tencent,Online,32.0,exacte,0.22,13009.0,False,False,2024-Grid view.csv
+2024-10-16,2024,10,4,290,DON'T NOD,DON'T NOD,Altres empreses,73,,Console,69.0,exacte,0.47,13078.0,False,False,2024-Grid view.csv
+2024-10-18,2024,10,4,292,Surgent Studios,Surgent Studios,Altres empreses,190,,Indie,,no_disponible,,13078.0,False,False,2024-Grid view.csv
+2024-10-22,2024,10,4,296,Netflix Studio Blue,Netflix,Altres empreses,54,Netflix,Online,35.0,exacte,0.24,13113.0,False,False,2024-Grid view.csv
+2024-10-22,2024,10,4,296,Inflexion Games,Tencent,Tencent,9,Tencent,Console,50.0,exacte,0.34,13163.0,False,False,2024-Grid view.csv
+2024-10-24,2024,10,4,298,Machine Zone,AppLovin,Altres empreses,34,AppLovin,Mobile,,no_disponible,,13163.0,False,False,2024-Grid view.csv
+2024-10-29,2024,10,4,303,Firewalk Studios,Sony,Sony,6,Sony,Console,174.0,exacte,1.19,13337.0,False,False,2024-Grid view.csv
+2024-10-29,2024,10,4,303,Neon Koi,Sony,Sony,6,Sony,Mobile,45.0,exacte,0.31,13382.0,False,False,2024-Grid view.csv
+2024-10-30,2024,10,4,304,Fingersoft,Fingersoft,Altres empreses,183,,Mobile,14.0,exacte,0.1,13396.0,False,False,2024-Grid view.csv
+2024-10-30,2024,10,4,304,probablyMonsters,probablyMonsters,Altres empreses,52,,Console,50.0,exacte,0.34,13446.0,False,False,2024-Grid view.csv
+2024-11-01,2024,11,4,306,Skydance Interactive,Paramount Global,Altres empreses,107,Paramount Global,AR/VR,12.0,exacte,0.08,13458.0,False,False,2024-Grid view.csv
+2024-11-09,2024,11,4,314,Heart Machine,Heart Machine,Altres empreses,158,,Indie,8.0,exacte,0.05,13466.0,False,False,2024-Grid view.csv
+2024-11-13,2024,11,4,318,Lilith Games,Lilith Games,Altres empreses,109,,Mobile,40.0,exacte,0.27,13506.0,False,False,2024-Grid view.csv
+2024-11-14,2024,11,4,319,Thunderful Games,Thunderful Group,Altres empreses,27,Thunderful Group,Console,100.0,exacte,0.68,13606.0,False,False,2024-Grid view.csv
+2024-11-15,2024,11,4,320,NCSoft,NCSoft,Altres empreses,19,NCSoft,Online,500.0,exacte,3.42,14106.0,True,False,2024-Grid view.csv
+2024-11-18,2024,11,4,323,Reflector Entertainment,Bandai Namco,Altres empreses,98,Bandai Namco,Console,45.0,exacte,0.31,14151.0,False,False,2024-Grid view.csv
+2024-11-19,2024,11,4,324,Zapper Games,Embracer Group,Embracer Group,4,Embracer Group,Console,18.0,exacte,0.12,14169.0,False,False,2024-Grid view.csv
+2024-11-25,2024,11,4,330,Humanoid Origin,Humanoid Origin,Altres empreses,69,,Console,70.0,exacte,0.48,14239.0,False,False,2024-Grid view.csv
+2024-11-25,2024,11,4,330,KING Art Games,KING Art Games,Altres empreses,196,,Indie,10.0,exacte,0.07,14249.0,False,False,2024-Grid view.csv
+2024-11-26,2024,11,4,331,Worlds Untold,NetEase,Altres empreses,39,NetEase,Console,35.0,exacte,0.24,14284.0,False,False,2024-Grid view.csv
+2024-12-03,2024,12,4,338,Torn Banner Studios,Torn Banner Studios,Altres empreses,222,,Indie,,no_disponible,,14284.0,False,False,2024-Grid view.csv
+2024-12-03,2024,12,4,338,Ubisoft Osaka,Ubisoft,Altres empreses,12,Ubisoft,Console,,no_disponible,,14284.0,False,False,2024-Grid view.csv
+2024-12-03,2024,12,4,338,Ubisoft San Francisco,Ubisoft,Altres empreses,12,Ubisoft,Console,175.0,exacte,1.2,14459.0,False,False,2024-Grid view.csv
+2024-12-04,2024,12,4,339,IllFonic,IllFonic,Altres empreses,222,,Indie,,no_disponible,,14459.0,False,False,2024-Grid view.csv
+2024-12-04,2024,12,4,339,Sweet Bandits,Sweet Bandits,Altres empreses,196,,Indie,10.0,exacte,0.07,14469.0,False,False,2024-Grid view.csv
+2024-12-04,2024,12,4,339,Ubisoft Sydney,Ubisoft,Altres empreses,12,Ubisoft,Console,134.0,exacte,0.92,14603.0,False,False,2024-Grid view.csv
+2024-12-06,2024,12,4,341,Deck Nine Games,Deck Nine Games,Altres empreses,83,,Indie,,no_disponible,,14603.0,False,False,2024-Grid view.csv
+2025-01-02,2025,1,1,2,Netmarble F&C,Netmarble,Altres empreses,36,Netmarble,Mobile,20.0,exacte,0.38,20.0,False,False,2025-Grid view.csv
+2025-01-06,2025,1,1,6,Jar of Sparks,NetEase,Altres empreses,39,NetEase,Console,35.0,exacte,0.66,55.0,False,False,2025-Grid view.csv
+2025-01-08,2025,1,1,8,Splash Damage,Tencent,Tencent,9,Tencent,Console,,no_disponible,,55.0,False,False,2025-Grid view.csv
+2025-01-09,2025,1,1,9,Counterplay Games,Counterplay Games,Altres empreses,222,,Indie,,no_disponible,,55.0,False,False,2025-Grid view.csv
+2025-01-09,2025,1,1,9,Piranha Games,Enad Global 7,Altres empreses,26,Enad Global 7,Console,38.0,exacte,0.72,93.0,False,False,2025-Grid view.csv
+2025-01-09,2025,1,1,9,Toadman Interactive,Enad Global 7,Altres empreses,26,Enad Global 7,Console,69.0,exacte,1.31,162.0,False,False,2025-Grid view.csv
+2025-01-09,2025,1,1,9,Freejam,Freejam,Altres empreses,222,,Indie,,no_disponible,,162.0,False,False,2025-Grid view.csv
+2025-01-10,2025,1,1,10,Highwire Games,Highwire Games,Altres empreses,222,,Console,,no_disponible,,162.0,False,False,2025-Grid view.csv
+2025-01-15,2025,1,1,15,Wargaming USA,Wargaming,Altres empreses,222,Wargaming,Console,,no_disponible,,162.0,False,False,2025-Grid view.csv
+2025-01-17,2025,1,1,17,Unchained Entertainment,Unchained Entertainment,Altres empreses,145,,Indie,25.0,exacte,0.47,187.0,False,False,2025-Grid view.csv
+2025-01-21,2025,1,1,21,Machine Zone,AppLovin,Altres empreses,34,AppLovin,Mobile,89.0,exacte,1.69,276.0,False,False,2025-Grid view.csv
+2025-01-21,2025,1,1,21,Reflector Entertainment,Bandai Namco,Altres empreses,98,Bandai Namco,Console,,no_disponible,,276.0,False,False,2025-Grid view.csv
+2025-01-27,2025,1,1,27,Phoenix Labs,Forte,Altres empreses,28,Forte,Online,50.0,exacte,0.95,326.0,False,False,2025-Grid view.csv
+2025-01-27,2025,1,1,27,MoonActive,MoonActive,Altres empreses,162,,Mobile,20.0,exacte,0.38,346.0,False,False,2025-Grid view.csv
+2025-01-27,2025,1,1,27,Ubisoft Dusseldorf,Ubisoft,Altres empreses,12,Ubisoft,Console,85.0,exacte,1.61,431.0,False,False,2025-Grid view.csv
+2025-01-27,2025,1,1,27,Ubisoft Leamington,Ubisoft,Altres empreses,12,Ubisoft,Console,50.0,exacte,0.95,481.0,False,False,2025-Grid view.csv
+2025-01-27,2025,1,1,27,Ubisoft Reflections,Ubisoft,Altres empreses,12,Ubisoft,Console,50.0,exacte,0.95,531.0,False,False,2025-Grid view.csv
+2025-01-28,2025,1,1,28,Fast Travel Games,Fast Travel Games,Altres empreses,131,,AR/VR,30.0,exacte,0.57,561.0,False,False,2025-Grid view.csv
+2025-01-30,2025,1,1,30,BioWare,Electronic Arts,Electronic Arts,3,Electronic Arts,Console,,no_disponible,,561.0,False,False,2025-Grid view.csv
+2025-01-30,2025,1,1,30,Midnight Society,Midnight Society,Altres empreses,83,,Online,55.0,exacte,1.04,616.0,False,False,2025-Grid view.csv
+2025-02-04,2025,2,1,35,Sumo Group,Tencent,Tencent,9,Tencent,Console,,no_disponible,,616.0,False,False,2025-Grid view.csv
+2025-02-04,2025,2,1,35,probablyMonsters,probablyMonsters,Altres empreses,52,,Console,,no_disponible,,616.0,False,False,2025-Grid view.csv
+2025-02-05,2025,2,1,36,Iron Galaxy,Iron Galaxy,Altres empreses,76,,Console,66.0,exacte,1.25,682.0,False,False,2025-Grid view.csv
+2025-02-06,2025,2,1,37,Hi-Rez Studios,Hi-Rez Studios,Altres empreses,73,,Online,69.0,exacte,1.31,751.0,False,False,2025-Grid view.csv
+2025-02-07,2025,2,1,38,10:10 Games,10:10 Games,Altres empreses,172,,Indie,18.0,exacte,0.34,769.0,False,False,2025-Grid view.csv
+2025-02-11,2025,2,1,42,Unity Technologies,Unity,Unity,2,Unity,Tech,,no_disponible,,769.0,False,False,2025-Grid view.csv
+2025-02-12,2025,2,1,43,Crytek,Crytek,Altres empreses,77,,Console,60.0,exacte,1.14,829.0,False,False,2025-Grid view.csv
+2025-02-12,2025,2,1,43,Sanzaru Games,Meta,Altres empreses,44,Meta,Sense classificar,,no_disponible,,829.0,False,False,2025-Grid view.csv
+2025-02-17,2025,2,1,48,Liquid Sword,Liquid Sword,Altres empreses,96,,Indie,46.0,exacte,0.87,875.0,False,False,2025-Grid view.csv
+2025-02-17,2025,2,1,48,NetEase,NetEase,Altres empreses,39,NetEase,Console,10.0,exacte,0.19,885.0,False,False,2025-Grid view.csv
+2025-02-20,2025,2,1,51,Bossa Games,Bossa Games,Altres empreses,222,,Indie,,no_disponible,,885.0,False,False,2025-Grid view.csv
+2025-02-20,2025,2,1,51,Striking Distance Studios,Krafton,Altres empreses,66,Krafton,Console,30.0,exacte,0.57,915.0,False,False,2025-Grid view.csv
+2025-02-24,2025,2,1,55,Skeleton Key Games,Hasbro,Altres empreses,175,Hasbro,Console,,no_disponible,,915.0,False,False,2025-Grid view.csv
+2025-02-25,2025,2,1,56,SpaceApe Games,Supercell,Altres empreses,131,Supercell,Mobile,30.0,exacte,0.57,945.0,False,False,2025-Grid view.csv
+2025-02-25,2025,2,1,56,Monolith Productions,Warner Bros.,Altres empreses,22,Warner Bros.,Console,170.0,exacte,3.23,1115.0,False,False,2025-Grid view.csv
+2025-02-25,2025,2,1,56,Player First Games,Warner Bros.,Altres empreses,22,Warner Bros.,Console,70.0,exacte,1.33,1185.0,False,False,2025-Grid view.csv
+2025-02-25,2025,2,1,56,WB San Diego,Warner Bros.,Altres empreses,22,Warner Bros.,Online,51.0,exacte,0.97,1236.0,False,False,2025-Grid view.csv
+2025-02-26,2025,2,1,57,Azra Games Austin,Azra,Altres empreses,109,Azra,Mobile,40.0,exacte,0.76,1276.0,False,False,2025-Grid view.csv
+2025-03-04,2025,3,1,63,PlayStation VASG,Sony,Sony,6,Sony,Console,,no_disponible,,1276.0,False,False,2025-Grid view.csv
+2025-03-05,2025,3,1,64,PlayStation Malaysia,Sony,Sony,6,Sony,Console,20.0,exacte,0.38,1296.0,False,False,2025-Grid view.csv
+2025-03-13,2025,3,1,72,Box Dragon,Box Dragon,Altres empreses,212,,Indie,5.0,exacte,0.09,1301.0,False,False,2025-Grid view.csv
+2025-03-13,2025,3,1,72,FreeRange Games,FreeRange Games,Altres empreses,63,,Indie,,no_disponible,,1301.0,False,False,2025-Grid view.csv
+2025-03-14,2025,3,1,73,Farm51,Farm51,Altres empreses,175,,Indie,15.0,exacte,0.28,1316.0,False,False,2025-Grid view.csv
+2025-03-14,2025,3,1,73,Mountaintop Studios,Mountaintop Studios,Altres empreses,60,,Online,80.0,exacte,1.52,1396.0,False,False,2025-Grid view.csv
+2025-03-18,2025,3,1,77,Studio Fizbin,Thunderful Group,Altres empreses,27,Thunderful Group,Console,25.0,exacte,0.47,1421.0,False,False,2025-Grid view.csv
+2025-03-19,2025,3,1,78,Elodie Games,Elodie Games,Altres empreses,119,,Indie,35.0,exacte,0.66,1456.0,False,False,2025-Grid view.csv
+2025-03-21,2025,3,1,80,Machine Zone,AppLovin,Altres empreses,34,AppLovin,Mobile,97.0,exacte,1.84,1553.0,False,False,2025-Grid view.csv
+2025-03-26,2025,3,1,85,Crystal Dynamics,Embracer Group,Embracer Group,4,Embracer Group,Console,17.0,exacte,0.32,1570.0,False,False,2025-Grid view.csv
+2025-03-27,2025,3,1,86,PLAION,Embracer Group,Embracer Group,4,Embracer Group,Publisher,40.0,exacte,0.76,1610.0,False,False,2025-Grid view.csv
+2025-03-28,2025,3,1,87,"Cyan, Inc.","Cyan, Inc.",Altres empreses,190,,Indie,12.0,exacte,0.23,1622.0,False,False,2025-Grid view.csv
+2025-03-31,2025,3,1,90,Eidos Montreal,Embracer Group,Embracer Group,4,Embracer Group,Console,75.0,exacte,1.42,1697.0,False,False,2025-Grid view.csv
+2025-04-01,2025,4,2,91,PlaySide,PlaySide,Altres empreses,222,,Indie,,no_disponible,,1697.0,False,False,2025-Grid view.csv
+2025-04-07,2025,4,2,97,Brass Lion Entertainment,Brass Lion Entertainment,Altres empreses,187,,Indie,13.0,exacte,0.25,1710.0,False,False,2025-Grid view.csv
+2025-04-16,2025,4,2,106,Makea Games,Makea Games,Altres empreses,162,,Sense classificar,20.0,exacte,0.38,1730.0,False,False,2025-Grid view.csv
+2025-04-22,2025,4,2,112,Nerial Ltd.,Devolver Digital,Altres empreses,204,Devolver Digital,Mobile,7.0,exacte,0.13,1737.0,False,False,2025-Grid view.csv
+2025-04-24,2025,4,2,114,Behaviour Interactive,Behaviour Interactive,Altres empreses,33,,Console,15.0,exacte,0.28,1752.0,False,False,2025-Grid view.csv
+2025-04-25,2025,4,2,115,Reality Labs,Meta,Altres empreses,44,Meta,AR/VR,100.0,exacte,1.9,1852.0,False,False,2025-Grid view.csv
+2025-04-25,2025,4,2,115,Mighty Yell,Mighty Yell,Altres empreses,222,,AR/VR,,no_disponible,,1852.0,False,False,2025-Grid view.csv
+2025-04-29,2025,4,2,119,Electronic Arts,Electronic Arts,Electronic Arts,3,Electronic Arts,Publisher,300.0,exacte,5.7,2152.0,True,True,2025-Grid view.csv
+2025-04-29,2025,4,2,119,Respawn Entertainment,Electronic Arts,Electronic Arts,3,Electronic Arts,Console,100.0,exacte,1.9,2252.0,False,False,2025-Grid view.csv
+2025-05-06,2025,5,2,126,Mainframe Industries,Mainframe Industries,Altres empreses,173,,Online,17.0,exacte,0.32,2269.0,False,False,2025-Grid view.csv
+2025-05-13,2025,5,2,133,SuperEvil MegaCorp,SuperEvil MegaCorp,Altres empreses,162,,Mobile,20.0,exacte,0.38,2289.0,False,False,2025-Grid view.csv
+2025-05-19,2025,5,2,139,Wooga,Wooga,Altres empreses,88,,Mobile,50.0,exacte,0.95,2339.0,False,False,2025-Grid view.csv
+2025-05-22,2025,5,2,142,Keywords Studios,Keywords Studios,Altres empreses,156,Keywords Studios,Publisher,11.0,exacte,0.21,2350.0,False,False,2025-Grid view.csv
+2025-05-23,2025,5,2,143,Uncapped Games,Tencent,Tencent,9,Tencent,Online,40.0,exacte,0.76,2390.0,False,False,2025-Grid view.csv
+2025-05-28,2025,5,2,148,Cliffhanger Games,Electronic Arts,Electronic Arts,3,Electronic Arts,Console,75.0,exacte,1.42,2465.0,False,False,2025-Grid view.csv
+2025-05-30,2025,5,2,150,Playtonic,Playtonic,Altres empreses,222,,Indie,,no_disponible,,2465.0,False,False,2025-Grid view.csv
+2025-06-01,2025,6,2,152,People Can Fly Studios,People Can Fly Studios,Altres empreses,40,,Console,120.0,exacte,2.28,2585.0,False,False,2025-Grid view.csv
+2025-06-02,2025,6,2,153,EA Montreal,Electronic Arts,Electronic Arts,3,Electronic Arts,Console,10.0,exacte,0.19,2595.0,False,False,2025-Grid view.csv
+2025-06-02,2025,6,2,153,Echtra Games,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Online,60.0,exacte,1.14,2655.0,False,False,2025-Grid view.csv
+2025-06-05,2025,6,2,156,Outplay Entertainment,Outplay Entertainment,Altres empreses,159,,Mobile,21.0,exacte,0.4,2676.0,False,False,2025-Grid view.csv
+2025-06-05,2025,6,2,156,Playtika,Playtika,Playtika,5,Playtika,Mobile,160.0,exacte,3.04,2836.0,False,False,2025-Grid view.csv
+2025-06-05,2025,6,2,156,Jagex,Tencent,Tencent,9,Tencent,Online,,no_disponible,,2836.0,False,False,2025-Grid view.csv
+2025-06-10,2025,6,2,161,Bend Studio,Sony,Sony,6,Sony,Console,40.0,exacte,0.76,2876.0,False,False,2025-Grid view.csv
+2025-06-16,2025,6,2,167,FreeRange Games,FreeRange Games,Altres empreses,63,,Indie,80.0,exacte,1.52,2956.0,False,False,2025-Grid view.csv
+2025-06-16,2025,6,2,167,Archetype Entertainment,Hasbro,Altres empreses,175,Hasbro,Console,,no_disponible,,2956.0,False,False,2025-Grid view.csv
+2025-06-18,2025,6,2,169,WB Montreal,Warner Bros.,Altres empreses,22,Warner Bros.,Console,23.0,exacte,0.44,2979.0,False,False,2025-Grid view.csv
+2025-06-20,2025,6,2,171,1047 Games,1047 Games,Altres empreses,222,,Indie,,no_disponible,,2979.0,False,False,2025-Grid view.csv
+2025-06-23,2025,6,2,174,Build a Rocket Boy,Build a Rocket Boy,Altres empreses,25,,Console,300.0,exacte,5.7,3279.0,True,False,2025-Grid view.csv
+2025-06-23,2025,6,2,174,Hypixel Studios,Tencent,Tencent,9,Tencent,Online,140.0,exacte,2.66,3419.0,False,False,2025-Grid view.csv
+2025-06-24,2025,6,2,175,Stoic Studio,Stoic Studio,Altres empreses,222,,Indie,,no_disponible,,3419.0,False,False,2025-Grid view.csv
+2025-06-25,2025,6,2,176,DON'T NOD MONTREAL,DON'T NOD,Altres empreses,73,DON'T NOD,Console,,no_disponible,,3419.0,False,False,2025-Grid view.csv
+2025-06-27,2025,6,2,178,"Cyan, Inc.","Cyan, Inc.",Altres empreses,190,,Indie,,no_disponible,,3419.0,False,False,2025-Grid view.csv
+2025-07-02,2025,7,3,183,Bethesda Softworks,Microsoft,Microsoft,1,Microsoft,Publisher,,no_disponible,,3419.0,False,False,2025-Grid view.csv
+2025-07-02,2025,7,3,183,Blizzard Entertainment,Microsoft,Microsoft,1,Microsoft,Online,100.0,exacte,1.9,3519.0,False,False,2025-Grid view.csv
+2025-07-02,2025,7,3,183,Halo Studio,Microsoft,Microsoft,1,Microsoft,Console,,no_disponible,,3519.0,False,False,2025-Grid view.csv
+2025-07-02,2025,7,3,183,King,Microsoft,Microsoft,1,Microsoft,Mobile,200.0,exacte,3.8,3719.0,True,False,2025-Grid view.csv
+2025-07-02,2025,7,3,183,Raven Software,Microsoft,Microsoft,1,Microsoft,Console,,no_disponible,,3719.0,False,False,2025-Grid view.csv
+2025-07-02,2025,7,3,183,Sledgehammer Games,Microsoft,Microsoft,1,Microsoft,Console,,no_disponible,,3719.0,False,False,2025-Grid view.csv
+2025-07-02,2025,7,3,183,The Initiative,Microsoft,Microsoft,1,Microsoft,Console,50.0,exacte,0.95,3769.0,False,False,2025-Grid view.csv
+2025-07-02,2025,7,3,183,Turn10 Studios,Microsoft,Microsoft,1,Microsoft,Console,70.0,exacte,1.33,3839.0,False,False,2025-Grid view.csv
+2025-07-02,2025,7,3,183,Xbox,Microsoft,Microsoft,1,Microsoft,Publisher,,no_disponible,,3839.0,False,False,2025-Grid view.csv
+2025-07-02,2025,7,3,183,ZeniMax Online,Microsoft,Microsoft,1,Microsoft,Online,164.0,exacte,3.11,4003.0,False,False,2025-Grid view.csv
+2025-07-02,2025,7,3,183,Black Shamrock,Virtuos,Altres empreses,145,Virtuos,Console,10.0,exacte,0.19,4013.0,False,False,2025-Grid view.csv
+2025-07-03,2025,7,3,184,Rare Ltd.,Microsoft,Microsoft,1,Microsoft,Console,,no_disponible,,4013.0,False,False,2025-Grid view.csv
+2025-07-03,2025,7,3,184,Romero Games Ltd.,Romero Games Ltd.,Altres empreses,222,,Indie,,no_disponible,,4013.0,False,False,2025-Grid view.csv
+2025-07-08,2025,7,3,189,Secret6 Madrid,Catalis Group,Altres empreses,107,Catalis Group,Console,42.0,exacte,0.8,4055.0,False,False,2025-Grid view.csv
+2025-07-09,2025,7,3,190,Ubisoft Redstorm,Ubisoft,Altres empreses,12,Ubisoft,Console,19.0,exacte,0.36,4074.0,False,False,2025-Grid view.csv
+2025-07-21,2025,7,3,202,The Chinese Room,The Chinese Room,Altres empreses,222,,Console,,no_disponible,,4074.0,False,False,2025-Grid view.csv
+2025-07-22,2025,7,3,203,1047 Games,1047 Games,Altres empreses,222,,Console,,no_disponible,,4074.0,False,False,2025-Grid view.csv
+2025-07-22,2025,7,3,203,Sandsoft,Sandsoft,Altres empreses,159,,Mobile,21.0,exacte,0.4,4095.0,False,False,2025-Grid view.csv
+2025-07-22,2025,7,3,203,SuperMassive Games,SuperMassive Games,Altres empreses,49,,Console,36.0,exacte,0.68,4131.0,False,False,2025-Grid view.csv
+2025-07-28,2025,7,3,209,MadApper,Voodoo,Altres empreses,222,Voodoo,Mobile,,no_disponible,,4131.0,False,False,2025-Grid view.csv
+2025-07-29,2025,7,3,210,Thunderful Games,Thunderful Group,Altres empreses,27,Thunderful Group,Publisher,,no_disponible,,4131.0,False,False,2025-Grid view.csv
+2025-08-08,2025,8,3,220,Bithell Games,Bithell Games,Altres empreses,194,,Indie,11.0,exacte,0.21,4142.0,False,False,2025-Grid view.csv
+2025-08-11,2025,8,3,223,NantGames,NantWorks,Altres empreses,222,NantWorks,Mobile,,no_disponible,,4142.0,False,False,2025-Grid view.csv
+2025-08-19,2025,8,3,231,Cloud Chamber Studios,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Console,80.0,exacte,1.52,4222.0,False,False,2025-Grid view.csv
+2025-08-25,2025,8,3,237,Rec Room,Rec Room,Altres empreses,37,,AR/VR,170.0,exacte,3.23,4392.0,False,False,2025-Grid view.csv
+2025-08-27,2025,8,3,239,Crystal Dynamics,Embracer Group,Embracer Group,4,Embracer Group,Console,,no_disponible,,4392.0,False,False,2025-Grid view.csv
+2025-08-27,2025,8,3,239,Eidos Montreal,Embracer Group,Embracer Group,4,Embracer Group,Console,,no_disponible,,4392.0,False,False,2025-Grid view.csv
+2025-08-27,2025,8,3,239,FunDog Studios,FunDog Studios,Altres empreses,222,,Indie,,no_disponible,,4392.0,False,False,2025-Grid view.csv
+2025-09-03,2025,9,3,246,DreamHaven,DreamHaven,Altres empreses,222,,Indie,,no_disponible,,4392.0,False,False,2025-Grid view.csv
+2025-09-04,2025,9,3,247,Firaxis Games,Take-Two Interactive,Altres empreses,11,Take-Two Interactive,Console,,no_disponible,,4392.0,False,False,2025-Grid view.csv
+2025-09-15,2025,9,3,258,Stoic Games,Stoic Games,Altres empreses,222,,Console,,no_disponible,,4392.0,False,False,2025-Grid view.csv
+2025-09-18,2025,9,3,261,GamesKraft,GamesKraft,Altres empreses,50,,Online,120.0,exacte,2.28,4512.0,False,False,2025-Grid view.csv
+2025-09-30,2025,9,3,273,Avalanche Liverpool,Avalanche Studios Group,Altres empreses,63,Avalanche Studios Group,Console,30.0,exacte,0.57,4542.0,False,False,2025-Grid view.csv
+2025-10-01,2025,10,4,274,Funcom,Tencent,Tencent,9,Tencent,Console,,no_disponible,,4542.0,False,False,2025-Grid view.csv
+2025-10-02,2025,10,4,275,Starbeeze Entertainment,Starbeeze Entertainment,Altres empreses,104,,Console,44.0,exacte,0.84,4586.0,False,False,2025-Grid view.csv
+2025-10-03,2025,10,4,276,Fuzzbot,Fuzzbot,Altres empreses,222,,Console,,no_disponible,,4586.0,False,False,2025-Grid view.csv
+2025-10-06,2025,10,4,279,The Outsiders,Tencent,Tencent,9,Tencent,Console,,no_disponible,,4586.0,False,False,2025-Grid view.csv
+2025-10-10,2025,10,4,283,Heart Machine,Heart Machine,Altres empreses,158,,Indie,10.0,exacte,0.19,4596.0,False,False,2025-Grid view.csv
+2025-10-17,2025,10,4,290,Jackalyptic Games,NetEase,Altres empreses,39,NetEase,Online,,no_disponible,,4596.0,False,False,2025-Grid view.csv
+2025-10-21,2025,10,4,294,Rovio Games,SEGA,Altres empreses,21,SEGA,Mobile,30.0,exacte,0.57,4626.0,False,False,2025-Grid view.csv
+2025-10-22,2025,10,4,295,Bossfight Entertainment,Netflix,Altres empreses,54,Netflix,Mobile,20.0,exacte,0.38,4646.0,False,False,2025-Grid view.csv
+2025-10-22,2025,10,4,295,Outerloop Games,Outerloop Games,Altres empreses,206,,Indie,6.0,exacte,0.11,4652.0,False,False,2025-Grid view.csv
+2025-10-28,2025,10,4,301,Amazon Game Studios,Amazon,Amazon,7,Amazon,Sense classificar,150.0,exacte,2.85,4802.0,False,False,2025-Grid view.csv
+2025-10-30,2025,10,4,303,Heart Machine,Heart Machine,Altres empreses,158,,Indie,5.0,exacte,0.09,4807.0,False,False,2025-Grid view.csv
+2025-11-03,2025,11,4,307,Atomhawk Canada,Tencent,Tencent,9,Tencent,Publisher,,no_disponible,,4807.0,False,False,2025-Grid view.csv
+2025-11-06,2025,11,4,310,Square Enix,Square Enix,Altres empreses,40,Square Enix,Publisher,150.0,exacte,2.85,4957.0,False,False,2025-Grid view.csv
+2025-11-12,2025,11,4,316,Sharkmob London,Tencent,Tencent,9,Tencent,Online,,no_disponible,,4957.0,False,False,2025-Grid view.csv
+2025-11-13,2025,11,4,317,Crystal Dynamics,Embracer Group,Embracer Group,4,Embracer Group,Console,30.0,exacte,0.57,4987.0,False,False,2025-Grid view.csv
+2025-11-17,2025,11,4,321,Bad Brain Game Studios,NetEase,Altres empreses,39,NetEase,Sense classificar,,no_disponible,,4987.0,False,False,2025-Grid view.csv
+2025-11-17,2025,11,4,321,Fantastic Pixel Castle Studio,NetEase,Altres empreses,39,NetEase,Online,50.0,exacte,0.95,5037.0,False,False,2025-Grid view.csv
+2025-11-17,2025,11,4,321,Redhill Games,Redhill Games,Altres empreses,222,,Mobile,,no_disponible,,5037.0,False,False,2025-Grid view.csv
+2025-11-21,2025,11,4,325,Eidos Montreal,Embracer Group,Embracer Group,4,Embracer Group,Console,,no_disponible,,5037.0,False,False,2025-Grid view.csv
+2025-11-24,2025,11,4,328,Splash Damage,Splash Damage,Altres empreses,37,,Console,170.0,exacte,3.23,5207.0,False,False,2025-Grid view.csv
+2025-11-24,2025,11,4,328,Coatsink,Thunderful Group,Altres empreses,27,Thunderful Group,Console,60.0,exacte,1.14,5267.0,False,False,2025-Grid view.csv
