@@ -1,7 +1,7 @@
 # Desmuntant la mentida visual: acomiadaments a la indústria del videojoc
 
 Pràctica 1 de *Modelització i Visualització de Dades* (Universitat Rovira i Virgili, Grau en Enginyeria Informàtica).
-Autor: [nom i cognoms]
+Autor: Ruben Leiva Fernandez
 
 ## De què va
 
@@ -16,11 +16,11 @@ Aquest projecte fa dues coses:
 
 Del tracker col·laboratiu de Farhan Noor (@dekaf): https://publish.obsidian.md/vg-layoffs/
 
-Hem fet servir els CSV (taules de dades) que ofereix per cada any, de 2021 a 2025. Cada fila és **un esdeveniment d'acomiadament** (un estudi, una data i el nombre de persones afectades), no una persona.
+He fet servir els CSV (taules de dades) que ofereix per cada any, de 2022 a 2025. Cada fila és **un esdeveniment d'acomiadament** (un estudi, una data i el nombre de persones afectades), no una persona.
 
 **Limitacions que cal tenir presents:**
 
-- Prop del 30 % dels esdeveniments no tenen xifra. No els tractem com a 0, perquè això voldria dir que no hi va haver acomiadaments, i el que passa és que no ho sabem.
+- Prop del 30 % dels esdeveniments no tenen xifra. No els tracto com a 0, perquè això voldria dir que no hi va haver acomiadaments, i el que passa és que no ho sabem.
 - A la web del tracker es distingeix entre xifres exactes i aproximades, però el CSV no ho conserva.
 - És un recompte col·laboratiu de casos públics, així que la xifra real és probablement més alta.
 - Les dades arriben fins a l'últim esdeveniment registrat, i l'últim mes pot estar incomplet.
@@ -74,7 +74,7 @@ Les dades originals no estan pensades per dibuixar-les directament. El programa 
 
 El programa també crea altres columnes de suport (pes de cada esdeveniment sobre el total de l'any, possibles dobles recomptes...) que el dashboard actual no fa servir.
 
-**Correcció manual:** una data tenia l'any escrit malament a l'origen (0125). L'hem corregit a mà al CSV original a [any] per a l'estudi [nom de l'estudi], i en conservem una còpia sense modificar.
+**Correcció manual:** una data tenia l'any escrit malament a l'origen (0125). L'he corregit a mà al CSV original a 2024.
 
 ## Com es fa servir el dashboard
 
