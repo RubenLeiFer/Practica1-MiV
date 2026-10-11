@@ -35,6 +35,10 @@ PARENT_FIXES = {
     "Warner Brothers": "Warner Bros.", "Netease": "NetEase", "PlayTika": "Playtika",
 }
 
+STUDIO_FIXES.update({"PlayTika": "Playtika", "TakeTwo Interactive": "Take-Two Interactive",
+                     "Hirez Ventures": "HiRez Ventures", "probablyMonsters": "ProbablyMonsters"})
+PARENT_FIXES.update(STUDIO_FIXES)
+
 # ══════════════════════════════════════════════════════════════════════════════════════════
 # CARREGA
 # Els CSV d'Airtable porten BOM (per això 'utf-8-sig'). Es llegeix tot com a text (dtype=str)
@@ -110,6 +114,9 @@ df["parent"] = df["parent"].replace(PARENT_FIXES) if "parent" in df else ""
 df["type"] = df["type"].replace("", "Sense classificar") if "type" in df else "Sense classificar"
 # 'company' = empresa matriu si n'hi ha; si no, l'estudi (és la unitat pel filtre).
 df["company"] = df["parent"].where(df["parent"] != "", df["studio"])
+#correccio dels noms amb errates o petites diferencies
+df["studio"] = df["studio"].replace({**STUDIO_FIXES, **PARENT_FIXES})
+df["parent"] = df["parent"].replace({**STUDIO_FIXES, **PARENT_FIXES})
 
 names = sorted(set(df["studio"]) | set(df["company"]))
 pairs = {tuple(sorted((a, b))) for a in names for b in difflib.get_close_matches(a, names, n=3, cutoff=0.85) if a != b}
